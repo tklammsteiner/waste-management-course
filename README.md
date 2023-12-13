@@ -16,7 +16,7 @@ Repository containing the materials for the lab course on anaerobic digestion.
 
 ## Slides
 
-- Day 1 - Introduction
+- Day 1 - [Introduction](https://tklammsteiner.github.io/waste-management-course/docs/day_1/biogas_ue_day_1.html)
 - Day 4 - 
 - Day 6 - 
 - Day 8 -
