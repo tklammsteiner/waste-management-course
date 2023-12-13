@@ -5,8 +5,9 @@ author: "Thomas Klammsteiner"
 output: html_document
 ---
 
+<br>
 
-## Find the current course details (dates and deadlines) at [uibk.ac.at](https://lfuonline.uibk.ac.at/public/lfuonline_lv.details?sem_id_in=23W&lvnr_id_in=718837&sprache_in=en) and  [OLAT](https://lms.uibk.ac.at/url/RepositoryEntry/5478907904)
+Find the current course details (dates and deadlines) at [uibk.ac.at](https://lfuonline.uibk.ac.at/public/lfuonline_lv.details?sem_id_in=23W&lvnr_id_in=718837&sprache_in=en) and  [OLAT](https://lms.uibk.ac.at/url/RepositoryEntry/5478907904)
 
 
 ## Protocol
@@ -30,8 +31,12 @@ output: html_document
 
 **Instructions:** Stick to the provided format and don't change any site or font settings. Before submitting the final version of your abstract, please rename the document with "abstract_\<yourlastname>.docx". Please do not convert the document to .pdf.
 
+<br>
+
 ## Poster guidelines
 
+
+<br>
 
 ## Tips for your presentation
 
@@ -40,9 +45,9 @@ output: html_document
 
 ***
 
-# About the lab course
+## About the lab course
 
-## Determine colony morphology
+### Determine colony morphology
 
 
-## Colony PCR
+### Colony PCR
