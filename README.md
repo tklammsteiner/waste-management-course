@@ -24,7 +24,7 @@ Repository containing the materials for the lab course on anaerobic digestion.
 
 ## Abstract template
 
-- Download abstract template
+- [Download abstract template](docs/abstract_lastname.docx)
 
 
 ## Poster guidelines
