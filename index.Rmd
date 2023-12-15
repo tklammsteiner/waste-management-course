@@ -25,6 +25,8 @@ Find the current course details (dates and deadlines) at [uibk.ac.at](https://lf
 - Day 8 - [Biomolecular characterization 1](https://tklammsteiner.github.io/waste-management-course/docs/day_1/biogas_ue_day_8.html)
 - Day 10 - [Biomolecular characterization 2](https://tklammsteiner.github.io/waste-management-course/docs/day_1/biogas_ue_day_10.html)
 
+<br>
+
 ## Abstract template
 
 - [Download abstract template](https://tklammsteiner.github.io/waste-management-course/docs/abstract_lastname.docx)
