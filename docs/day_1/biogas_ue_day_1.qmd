@@ -124,7 +124,7 @@ Everybody should know where to find the following objects:
 ## How to
 
 - Poster  
---> Check the [help section](https://tklammsteiner.github.io/waste-management-course/#Help-section)
+--> Check the [help section](https://tklammsteiner.github.io/waste-management-course/#-Help-section)
 
 - Abstract  
 --> check the help section  
