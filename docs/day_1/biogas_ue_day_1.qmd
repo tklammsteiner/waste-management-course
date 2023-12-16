@@ -1,26 +1,131 @@
 ---
-title: "Introduction"
-subtitle: "Biogas UE"
-author: "Thomas Klammsteiner, Sebastian Hupfauf"
-format: revealjs
+title: "Biogas Lab Course"
+subtitle: "Day 1 - Introduction"
+subject: "LV No.: 718837"
+author:
+  - name: "Thomas Klammsteiner"
+    id: jb
+    orcid: 0000-0003-1280-5159
+    email: thomas.klammsteiner@uibk.ac.at
+    affiliation: 
+      - name: Dept. of Ecology, UIBK
+        city: Innsbruck, AT
+        url: www.uibk.ac.uk
+  - name: "Sebastian Hupfauf"
+    id: jb
+    orcid: 0000-0002-2012-9966
+    email: sebastian.hupfauf@uibk.ac.at
+    affiliation: 
+      - name: Dept. of Microbiology, UIBK
+        city: Innsbruck, AT
+        url: www.uibk.ac.uk
+footer: "[Course website](https://tklammsteiner.github.io/waste-management-course)"
+format: 
+  revealjs:
+    theme: simple
 editor: visual
 ---
 
-## Quarto
+# Lab course information
 
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+## Course schedule
 
-## Bullets
+```{R}
+library(reactable)
 
-When you click the **Render** button a document will be generated that includes:
+schedule <- data.frame(
+  Week = c("Week 1", 
+           "Week 2", "", "", "", "", 
+           "Week 3", "", "", "", ""),
+  Day = c("Friday", 
+          rep(c("Monday", "Tuesday", "Wednesday", "Thursday", "Friday"), 2)),
+  Time = c("09:00-17:00", 
+           "09:00-17:00", "09:00-11:00", "09:00-15:00", "09:00-11:00", "Holiday",
+           "09:00-17:00", "09:00-11:00", "09:00-17:00", "09:00-15:00", "09:00-17:00"))
+                              
+reactable(schedule, 
+          highlight = TRUE, 
+          borderless = TRUE,
+          pagination = FALSE,
+          columns = list(
+            Week = colDef(width = 200),
+            Day = colDef(width = 200),
+            Time = colDef(width = 150)
+          ),
+          style = list(fontSize = "16pt"))
 
--   Content authored with markdown
--   Output from executable code
-
-## Code
-
-When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
 ```
+
+
+## General rules
+
+-   Food and drinks are not allowed in the lab
+-   Label all tubes, flasks, bottles, etc. accordingly
+-   Lab coat is mandatory
+-   Where necessary: Wear gloves and/or safety goggles
+-   In emergency situations:
+
+    **K**-**A**-**R**-**L** (**K**eine Panik, **A**larmieren, **R**etten, **L**öschen)
+
+## General rules
+
+-   Keep all working areas clean
+-   Attendance is compulsory (unless excused)
+
+## Safety
+
+Everybody should know where to find the following objects:
+
+- First aid kit
+- Fire blanket
+- Fire extinguisher
+- Fire alarm button
+- Emergency shower
+- Eye shower
+- Main gas valve?
+- Evacuation meeting point
+
+## Evacuation meeting point
+
+# The basic concept
+
+## Anaerobic digestion
+
+## Anaerobic digestion
+
+## Anerobic digestion
+
+## Workflow
+
+## Biogas reactors
+
+## Treatments
+
+## Treatments - Co-substrate
+
+## Treatments - Co-substrate
+
+## Treatments - Co-substrate
+
+## Treatments
+
+## Topic assignment
+
+## Evaluation guidelines
+
+- 25% Introductory exam 
+- 25% Collaboration
+- 25% Group work
+  - Poster
+  - Poster presentation
+  - Treatment presentation
+- 25% Extended abstract (2 pages)
+
+## How to
+
+- Poster  
+--> Check the [help section](https://tklammsteiner.github.io/waste-management-course/#Help-section)
+
+- Abstract  
+--> check the help section  
+--> use the template

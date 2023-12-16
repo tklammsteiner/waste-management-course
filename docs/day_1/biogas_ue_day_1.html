@@ -10,8 +10,9 @@
 <link href="biogas_ue_day_1_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.3.450">
 
-  <meta name="author" content="Thomas Klammsteiner, Sebastian Hupfauf">
-  <title>Introduction</title>
+  <meta name="author" content="Thomas Klammsteiner">
+  <meta name="author" content="Sebastian Hupfauf">
+  <title>Biogas Lab Course</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -319,48 +320,168 @@
       margin-right: 0; 
     }
   </style>
+  
+  <script src="biogas_ue_day_1_files/libs/core-js-2.5.3/shim.min.js"></script>
+  <script src="biogas_ue_day_1_files/libs/react-18.2.0/react.min.js"></script>
+  <script src="biogas_ue_day_1_files/libs/react-18.2.0/react-dom.min.js"></script>
+  <script src="biogas_ue_day_1_files/libs/reactwidget-1.0.0/react-tools.js"></script>
+  <script src="biogas_ue_day_1_files/libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
+  <link href="biogas_ue_day_1_files/libs/reactable-0.4.4/reactable.css" rel="stylesheet">
+  <script src="biogas_ue_day_1_files/libs/reactable-binding-0.4.4/reactable.js"></script>
 </head>
 <body class="quarto-light">
   <div class="reveal">
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block center">
-  <h1 class="title">Introduction</h1>
-  <p class="subtitle">Biogas UE</p>
+  <h1 class="title">Biogas Lab Course</h1>
+  <p class="subtitle">Day 1 - Introduction</p>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
 <div class="quarto-title-author-name">
-Thomas Klammsteiner, Sebastian Hupfauf 
+Thomas Klammsteiner <a href="https://orcid.org/0000-0003-1280-5159" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a>
 </div>
+<div class="quarto-title-author-email">
+<a href="mailto:thomas.klammsteiner@uibk.ac.at">thomas.klammsteiner@uibk.ac.at</a>
 </div>
+        <p class="quarto-title-affiliation">
+            <a href="www.uibk.ac.uk">
+            Dept. of Ecology, UIBK
+            </a>
+          </p>
+    </div>
+<div class="quarto-title-author">
+<div class="quarto-title-author-name">
+Sebastian Hupfauf <a href="https://orcid.org/0000-0002-2012-9966" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a>
+</div>
+<div class="quarto-title-author-email">
+<a href="mailto:sebastian.hupfauf@uibk.ac.at">sebastian.hupfauf@uibk.ac.at</a>
+</div>
+        <p class="quarto-title-affiliation">
+            <a href="www.uibk.ac.uk">
+            Dept. of Microbiology, UIBK
+            </a>
+          </p>
+    </div>
 </div>
 
 </section>
-<section id="quarto" class="slide level2">
-<h2>Quarto</h2>
-<p>Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <a href="https://quarto.org/docs/presentations/" class="uri">https://quarto.org/docs/presentations/</a>.</p>
+<section>
+<section id="lab-course-information" class="title-slide slide level1 center">
+<h1>Lab course information</h1>
+
 </section>
-<section id="bullets" class="slide level2">
-<h2>Bullets</h2>
-<p>When you click the <strong>Render</strong> button a document will be generated that includes:</p>
+<section id="course-schedule" class="slide level2">
+<h2>Course schedule</h2>
+<div class="cell">
+<div class="cell-output-display">
+
+<div class="reactable html-widget html-fill-item" id="htmlwidget-a5bf7952c5717df79111" style="width:auto;height:auto;"></div>
+<script type="application/json" data-for="htmlwidget-a5bf7952c5717df79111">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"Week":["Week 1","Week 2","","","","","Week 3","","","",""],"Day":["Friday","Monday","Tuesday","Wednesday","Thursday","Friday","Monday","Tuesday","Wednesday","Thursday","Friday"],"Time":["09:00-17:00","09:00-17:00","09:00-11:00","09:00-15:00","09:00-11:00","Holiday","09:00-17:00","09:00-11:00","09:00-17:00","09:00-15:00","09:00-17:00"]},"columns":[{"id":"Week","name":"Week","type":"character","width":200},{"id":"Day","name":"Day","type":"character","width":200},{"id":"Time","name":"Time","type":"character","width":150}],"pagination":false,"highlight":true,"borderless":true,"style":{"fontSize":"16pt"},"dataKey":"3bec0996cce1191a6ac2acb0289ce46b"},"children":[]},"class":"reactR_markup"},"evals":[],"jsHooks":[]}</script>
+</div>
+</div>
+</section>
+<section id="general-rules" class="slide level2">
+<h2>General rules</h2>
 <ul>
-<li>Content authored with markdown</li>
-<li>Output from executable code</li>
+<li><p>Food and drinks are not allowed in the lab</p></li>
+<li><p>Label all tubes, flasks, bottles, etc. accordingly</p></li>
+<li><p>Lab coat is mandatory</p></li>
+<li><p>Where necessary: Wear gloves and/or safety goggles</p></li>
+<li><p>In emergency situations:</p>
+<p><strong>K</strong>-<strong>A</strong>-<strong>R</strong>-<strong>L</strong> (<strong>K</strong>eine Panik, <strong>A</strong>larmieren, <strong>R</strong>etten, <strong>L</strong>öschen)</p></li>
 </ul>
 </section>
-<section id="code" class="slide level2">
-<h2>Code</h2>
-<p>When you click the <strong>Render</strong> button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:</p>
-<div class="cell">
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 2</code></pre>
-</div>
-</div>
-<div class="footer footer-default">
-
-</div>
+<section id="general-rules-1" class="slide level2">
+<h2>General rules</h2>
+<ul>
+<li>Keep all working areas clean</li>
+<li>Attendance is compulsory (unless excused)</li>
+</ul>
 </section>
+<section id="safety" class="slide level2">
+<h2>Safety</h2>
+<p>Everybody should know where to find the following objects:</p>
+<ul>
+<li>First aid kit</li>
+<li>Fire blanket</li>
+<li>Fire extinguisher</li>
+<li>Fire alarm button</li>
+<li>Emergency shower</li>
+<li>Eye shower</li>
+<li>Main gas valve?</li>
+<li>Evacuation meeting point</li>
+</ul>
+</section>
+<section id="evacuation-meeting-point" class="slide level2">
+<h2>Evacuation meeting point</h2>
+</section></section>
+<section>
+<section id="the-basic-concept" class="title-slide slide level1 center">
+<h1>The basic concept</h1>
+
+</section>
+<section id="anaerobic-digestion" class="slide level2">
+<h2>Anaerobic digestion</h2>
+</section>
+<section id="anaerobic-digestion-1" class="slide level2">
+<h2>Anaerobic digestion</h2>
+</section>
+<section id="anerobic-digestion" class="slide level2">
+<h2>Anerobic digestion</h2>
+</section>
+<section id="workflow" class="slide level2">
+<h2>Workflow</h2>
+</section>
+<section id="biogas-reactors" class="slide level2">
+<h2>Biogas reactors</h2>
+</section>
+<section id="treatments" class="slide level2">
+<h2>Treatments</h2>
+</section>
+<section id="treatments---co-substrate" class="slide level2">
+<h2>Treatments - Co-substrate</h2>
+</section>
+<section id="treatments---co-substrate-1" class="slide level2">
+<h2>Treatments - Co-substrate</h2>
+</section>
+<section id="treatments---co-substrate-2" class="slide level2">
+<h2>Treatments - Co-substrate</h2>
+</section>
+<section id="treatments-1" class="slide level2">
+<h2>Treatments</h2>
+</section>
+<section id="topic-assignment" class="slide level2">
+<h2>Topic assignment</h2>
+</section>
+<section id="evaluation-guidelines" class="slide level2">
+<h2>Evaluation guidelines</h2>
+<ul>
+<li>25% Introductory exam</li>
+<li>25% Collaboration</li>
+<li>25% Group work
+<ul>
+<li>Poster</li>
+<li>Poster presentation</li>
+<li>Treatment presentation</li>
+</ul></li>
+<li>25% Extended abstract (2 pages)</li>
+</ul>
+</section>
+<section id="how-to" class="slide level2">
+<h2>How to</h2>
+<ul>
+<li><p>Poster<br>
+–&gt; Check the <a href="https://tklammsteiner.github.io/waste-management-course/#Help-section">help section</a></p></li>
+<li><p>Abstract<br>
+–&gt; check the help section<br>
+–&gt; use the template</p></li>
+</ul>
+<div class="footer footer-default">
+<p><a href="https://tklammsteiner.github.io/waste-management-course">Course website</a></p>
+</div>
+</section></section>
     </div>
   </div>
 

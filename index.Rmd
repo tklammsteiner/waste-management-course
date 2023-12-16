@@ -27,6 +27,8 @@ Find the current course details (dates and deadlines) at [uibk.ac.at](https://lf
 
 <br>
 
+# Help section
+
 ## Abstract template
 
 - [Download abstract template](https://tklammsteiner.github.io/waste-management-course/docs/abstract_lastname.docx)
