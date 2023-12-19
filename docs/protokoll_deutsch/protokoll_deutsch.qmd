@@ -198,7 +198,7 @@ Für die Messung werden 100 mL Biogas mit Hilfe einer Glasspritze aus dem Reakto
 **Auswertung**:\
 Die zeitliche Veränderung aller Biogasbestandteile (CH4, CO2, H2S, O2) soll grafisch dargestellt werden. Außerdem soll mit Hilfe der Gaszusammensetzung der Methanertrag (mL CH4 g-1 oTS) der untersuchten Behandlungen und der Kontrolle berechnet werden. Die Wahl einer geeigneten Darstellungs-möglichkeit liegt bei den jeweiligen Gruppen.
 
-## 3.4. Physico-chemische Analysen
+## 3.4. Physikochemische Analysen
 
 ### 3.4.1. pH-Wert
 

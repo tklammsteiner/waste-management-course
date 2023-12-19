@@ -198,7 +198,7 @@ For the measurement, 100 mL of biogas is removed from the reactor using a glass 
 **Evaluation**:\
 The change over time of all biogas components (CH<sub>4</sub>, CO<sub>2</sub>, H<sub>2</sub>S, O<sub>2</sub>) is to be graphically represented. In addition, the methane yield (mL CH<sub>4</sub> g<sup>-1</sup> oTS) of the analysed treatments and the control should be calculated with the help of the gas composition. The choice of a suitable visualisation option is up to the respective groups.
 
-## 3.4. Physico-chemical analyses
+## 3.4. Physicochemical analyses
 
 ### 3.4.1. pH value
 

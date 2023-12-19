@@ -52,10 +52,3 @@ Tipps + design help:
 
 <br>
 
-------------------------------------------------------------------------
-
-## About the lab course
-
-### Determine colony morphology
-
-### Colony PCR
