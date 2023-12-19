@@ -12,7 +12,7 @@ Find the current course details (dates and deadlines) at [uibk.ac.at](https://lf
 ## Protocol
 
 -   [**German**](https://tklammsteiner.github.io/waste-management-course/docs/protokoll_deutsch/protokoll_deutsch.html) version\
--   **English** version
+-   [**English**](https://tklammsteiner.github.io/waste-management-course/docs/protocol_english/protocol_english.html) version
 
 <br>
 
