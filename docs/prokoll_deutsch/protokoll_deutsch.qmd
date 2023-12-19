@@ -1,13 +1,16 @@
 ---
-title: "Biogas"
-subtitle: "UE3 (4.5 ECTS) | WS2023/24 | Lv Nr. 718837"
+title: "Protokoll - Waste Management Laborpraktikum"
+subtitle: "WS2023/24 | Lv Nr. 718837"
 author: "Thomas Klammsteiner, PhD | Sebastian Hupfauf, PhD"
-output: 
-  html_document:
+format: 
+  html:
     toc: true
-    toc_float: 
-      collapsed: false
-      smooth_scroll: true
+    toc-title: Inhalt
+    toc-location: left
+    theme: flatly
+    page-layout: full
+editor: visual
+
 ---
 
 <br>
@@ -15,23 +18,23 @@ output:
 **Praktikumsleitung**:  
 
 - Sebastian Hupfauf, PhD  
-Sebastian.Hupfauf@uibk.ac.at  
+[sebastian.hupfauf@uibk.ac.at](mailto:sebastian.hupfauf@uibk.ac.at)  
 
 - Thomas Klammsteiner, PhD  
-Thomas.Klammsteiner@uibk.ac.at  
+[thomas.klammsteiner@uibk.ac.at](mailto:thomas.klammsteiner@uibk.ac.at)  
 
 - Mag. Dr. Sabine Podmirseg  
-Sabine.Podmirseg@uibk.ac.at
+[sabine.podmirseg@uibk.ac.at](mailto:sabine.podmirseg@uibk.ac.at)  
 
 - Sophia Strobl, M.Sc.  
-Sophia.Strobl@uibk.ac.at
+[sophia.strobl@uibk.ac.at](mailto:sophia.strobl@uibk.ac.at)
 
 <br>
 
 **Tutorin**:  
 
 - Laura M. Marte, BSc  
-Laura.M.Marte@student.uibk.ac.at  
+[laura.m.marte@student.uibk.ac.at](mailto:laura.M.Marte@student.uibk.ac.at)  
 
 <br>
 
@@ -67,13 +70,17 @@ Labormantel, Taschenrechner, Schreibzeug, Permanentmarker, dieses Praktikumsprot
 Jeweils 09:00 Uhr, Mikrobiologie - Übungslabor (G02), NATWI Gebäude, Technikerstraße 25, 2. Stockwerk!
 
 **Benotung**  
-Die finale Benotung des Praktikums errechnet sich zu gleichen Teilen (25%) aus den folgenden vier Teilnoten:
-- Einführungstest: Am ersten Praktikumstag (01.12.2023) wird ein kurzer Einführungstest über den Inhalt des Praktikumsprotokolls durchgeführt. Der Test wird Großteils aus Multiple-Choice Fragen bestehen.
-- Mitarbeit: Die individuelle Mitarbeit aller Studierenden wird während dem gesamten Praktikumszeitraum beurteilt.
-- Gruppenarbeiten:
-    - Jede Gruppe führt parallel zur Arbeit im Labor eine Literaturrecherche zu ihrem gewählten Treatment (z.B. Co-Vergärung, Temperatur, Fütterungsmenge) durch. Dabei soll auf die Relevanz in der Praxis, die Auswirkung auf den Methanertrag, die Auswirkung auf die Mikroorganismen, ungeklärte Fragen sowie das zukünftige Potenzial eingegangen werden. Die Ergebnisse werden am letzten Labortag (15.12.2023) gruppenweise über einen PC mit Beamer präsentiert (ca. 10 Minuten pro Gruppe). 
-    - Die wichtigsten Ergebnisse des Biogas-Monitorings sollen gruppenweise in Form von Postern dargestellt werden. Am Nachbesprechungstermin (15.01.2024) werden die Poster den anderen Kursteilnehmenden vorgestellt und die Ergebnisse präsentiert. Zusätzlich werden Ergebnisse, die nicht am Poster Platz gefunden habe, anschließend in einer kurzen PowerPoint Präsentation präsentiert (Dauer für Posterpräsentation + Präsentation der weiteren Ergebnisse: ca. 20 Minuten pro Gruppe). Die Poster müssen nicht gedruckt werden! Die Präsentationen werden über einen PC mit Beamer erfolgen. 
-- Abstract: Die Studierenden erstellen einen erweiterten Abstract (zwei Din-A4 Seiten), wie er für Konferenzteilnahmen oder wissenschaftliche Publikationen üblich ist. Darin soll der Versuchsansatz erklärt und die wichtigsten Ergebnisse präsentiert werden. Nähere Informationen zum Schreiben eines wissenschaftlichen Abstracts werden im Laufe des Praktikums gegeben. Die Abgabe soll idealerweise über E-Mail (an eine:n der Kursleitung) erfolgen, wobei der Tag der Nachbesprechung (15.01.2024) als Abgabefrist festgesetzt ist.
+Die finale Benotung des Praktikums errechnet sich zu gleichen Teilen (25%) aus den folgenden vier Teilnoten:  
+
+- **Einführungstest**: Am ersten Praktikumstag (01.12.2023) wird ein kurzer Einführungstest über den Inhalt des Praktikumsprotokolls durchgeführt. Der Test wird Großteils aus Multiple-Choice Fragen bestehen.  
+
+- **Mitarbeit**: Die individuelle Mitarbeit aller Studierenden wird während dem gesamten Praktikumszeitraum beurteilt.  
+
+- **Gruppenarbeiten**:  
+  - Jede Gruppe führt parallel zur Arbeit im Labor eine Literaturrecherche zu ihrem gewählten Treatment (z.B. Co-Vergärung, Temperatur, Fütterungsmenge) durch. Dabei soll auf die Relevanz in der Praxis, die Auswirkung auf den Methanertrag, die Auswirkung auf die Mikroorganismen, ungeklärte Fragen sowie das zukünftige Potenzial eingegangen werden. Die Ergebnisse werden am letzten Labortag (15.12.2023) gruppenweise über einen PC mit Beamer präsentiert (ca. 10 Minuten pro Gruppe).
+  - Die wichtigsten Ergebnisse des Biogas-Monitorings sollen gruppenweise in Form von Postern dargestellt werden. Am Nachbesprechungstermin (15.01.2024) werden die Poster den anderen Kursteilnehmenden vorgestellt und die Ergebnisse präsentiert. Zusätzlich werden Ergebnisse, die nicht am Poster Platz gefunden habe, anschließend in einer kurzen PowerPoint Präsentation präsentiert (Dauer für Posterpräsentation + Präsentation der weiteren Ergebnisse: ca. 20 Minuten pro Gruppe). Die Poster müssen nicht gedruckt werden! Die Präsentationen werden über einen PC mit Beamer erfolgen. 
+
+- **Abstract**: Die Studierenden erstellen einen erweiterten Abstract (zwei Din-A4 Seiten), wie er für Konferenzteilnahmen oder wissenschaftliche Publikationen üblich ist. Darin soll der Versuchsansatz erklärt und die wichtigsten Ergebnisse präsentiert werden. Nähere Informationen zum Schreiben eines wissenschaftlichen Abstracts werden im Laufe des Praktikums gegeben. Die Abgabe soll idealerweise über E-Mail (an eine:n der Kursleitung) erfolgen, wobei der Tag der Nachbesprechung (15.01.2024) als Abgabefrist festgesetzt ist.
 
 **Nachbesprechung mit Präsentationen der Poster: 15.01.2024 (14:00-16:00)**  
 **Die Nachbesprechung findet im Seminarraum Biologie (Foyer) statt**
@@ -112,46 +119,54 @@ Information über Standort und Gebrauch der Sicherheitseinrichtungen des Labors:
 # 2. Einleitung
 
 Biogas ist definitionsgemäß ein brennbares, flüchtiges Gas, welches durch die anaerobe Vergärung von Biomasse entsteht. Die Hauptbestandteile sind Methan (CH4, 50-75%) und Kohlendioxid (CO2, 25-50%). Zudem findet man geringere Mengen an Stickstoff (N2), Ammoniak (NH3), Wasserstoff (H2), Schwefelwasserstoff (H2S), Wasserdampf (H2O), Sauerstoff (O2) sowie weitere Spurengase. Die genaue Zusammensetzung hängt dabei stark von der Substratzusammensetzung und der Betriebsweise des Bioreaktors ab (BMVIT, 2014).
-Die Produktion von Biogas stellt eine nachhaltige und ökologische Möglichkeit der Energiegewinnung dar, da unter optimalen Bedingungen netto keine klimaaktiven Treibhausgase freigesetzt werden. Des Weiteren kann die Verwendung von organischen Reststoffen als Substratquelle forciert werden, wodurch gleichzeitig Probleme, die mit der Abfallbehandlung und Beseitigung einhergehen, gelöst werden. Neben wichtigen ökologischen Auswirkungen in den Bereichen Umwelt- und Klimaschutz, bietet die anaerobe Vergärung von landwirtschaftlichen Abfällen auch sozioökonomische Vorteile. Ein weiterer Vorteil ist, dass die anfallenden Gärreste, die grundsätzlich eine verbesserte Düngewirkung, eine reduzierte Anzahl an Pathogenen sowie eine verminderte Geruchsbelastung im Vergleich zu den Ausgangssubstraten aufweisen, direkt vor Ort auf Felder ausgebracht werden können (Goberna et al., 2011; Insam et al., 2015). 
-In landwirtschaftlichen Anlagen wird zumeist Flüssigmist (=Gülle), der bei der Tierhaltung in den Betrieben anfällt, als Basissubstrat zur Biogaserzeugung verwendet. Die Verwendung von Flüssigmist verursacht de facto keine Kosten, er weist einen geeigneten Wassergehalt auf und fällt meist in großen Mengen an. Auf Grund des limitierten Gasbildungspotentials (geringes C/N Verhältnis) ist es allerdings sinnvoll, zusätzlich andere, energetisch hochwertige Stoffe als so genannte Co-Substrate mit zu vergären (Kaiser, 2007). Dafür kommen beispielsweise andere landwirtschaftliche Abfallprodukte (Stroh, Ernteabfälle, usw.), industrielle Reststoffe (von Bäckereien, Schlachthöfen, Molkereien, Brauereien, usw.), kommunale Abfälle (z.B. Strauchschnitt) sowie gesammelter Biomüll aus privaten Haushalten in Frage. In den letzten Jahren wurden zudem zunehmend „NAWARO“-Pflanzen (Nachwachsende Rohstoffe) wie Mais, Soja, Rüben oder Getreide, die ausschließlich für die Produktion von Biogas angepflanzt werden, verwendet. Obwohl äußerst effizient in der Energiegewinnung, muss hierbei jedoch die ethische Fragestellung aufgeworfen werden, ob potentielle Nahrungsmittel für die Energiegewinnung verwendet werden sollten. So stehen NAWARO-Pflanzen oft in direkter Flächenkonkurrenz zur Futter- und Nahrungsmittelindustrie und auch die hierfür nötigen riesigen Monokulturen sind aus ökologischer Sicht bedenklich (EU, 2014). Die Verwendung von meist lignocellulosehaltigen Reststoffen der Nahrungs- und Futtermittelerzeugung (z.B. Maisstroh, Weizenstroh) stellt eine vielversprechende Alternative dar, da sie weltweit in riesigen Mengen anfallen und nicht in Konkurrenz zur Ernährung von Mensch und Tier stehen. Diese Substrate besitzen häufig eine v.a. anaerob sehr schwer abbaubare Zusammensetzung, die eine vergleichsweise geringe Energieausbeute mit sich bringt. Unterschiedliche Vorbehandlungsmethoden (mechanisch, chemisch, thermisch, enzymatisch, biologisch über aerobe/anaerobe Pilze) können dem entgegenwirken und die Effizienz der Biogasproduktion steigern (Taherzadeh & Karimi, 2008).
-Abgesehen vom verwendeten Substrat(-gemisch), hängt der Prozess der Biogasproduktion noch von einer Vielzahl weiterer Parameter, wie z.B. Temperatur, Substratdurchmischung, Fütterungsmenge und pH-Wert ab. Insbesondere die Wahl der Temperatur ist ausschlaggebend für die Effizienz der Biogasanlage und ermöglicht Betreiber/innen die Steuerung des Prozesses. Großtechnische Anlagen werden heutzutage üblicherweise unter mesophilen (30-40 °C) oder thermophilen (50-60 °C) Bedingungen betrieben (Jain et al., 2015). Neueste Studien zeigen allerdings, dass insbesondere die Lücke zwischen diesen beiden Temperaturbereichen interessant ist, da hier die Vorteile beider Bereiche kombiniert und optimale Biogasausbeuten erzielt werden können (Hupfauf et al., 2018; Tian et al., 2018). Die Vorteile mesophiler Biogasproduktion sind eine hohe Prozessstabilität (Labatut et al., 2014) sowie der geringe Energieaufwand zur konstanten Aufrechterhaltung der Temperatur im Bioreaktor. Thermophile Fermentation führt hingegen zu einer besseren Hygienisierung des anfallenden Gärrests (Sahlström, 2003) und erlaubt höhere Stoffwechselraten der beteiligten Mikroorganismen. 
+Die Produktion von Biogas stellt eine nachhaltige und ökologische Möglichkeit der Energiegewinnung dar, da unter optimalen Bedingungen netto keine klimaaktiven Treibhausgase freigesetzt werden. Des Weiteren kann die Verwendung von organischen Reststoffen als Substratquelle forciert werden, wodurch gleichzeitig Probleme, die mit der Abfallbehandlung und Beseitigung einhergehen, gelöst werden. Neben wichtigen ökologischen Auswirkungen in den Bereichen Umwelt- und Klimaschutz, bietet die anaerobe Vergärung von landwirtschaftlichen Abfällen auch sozioökonomische Vorteile. Ein weiterer Vorteil ist, dass die anfallenden Gärreste, die grundsätzlich eine verbesserte Düngewirkung, eine reduzierte Anzahl an Pathogenen sowie eine verminderte Geruchsbelastung im Vergleich zu den Ausgangssubstraten aufweisen, direkt vor Ort auf Felder ausgebracht werden können (Goberna et al., 2011; Insam et al., 2015).  
+
+In landwirtschaftlichen Anlagen wird zumeist Flüssigmist (=Gülle), der bei der Tierhaltung in den Betrieben anfällt, als Basissubstrat zur Biogaserzeugung verwendet. Die Verwendung von Flüssigmist verursacht de facto keine Kosten, er weist einen geeigneten Wassergehalt auf und fällt meist in großen Mengen an. Auf Grund des limitierten Gasbildungspotentials (geringes C/N Verhältnis) ist es allerdings sinnvoll, zusätzlich andere, energetisch hochwertige Stoffe als so genannte Co-Substrate mit zu vergären (Kaiser, 2007). Dafür kommen beispielsweise andere landwirtschaftliche Abfallprodukte (Stroh, Ernteabfälle, usw.), industrielle Reststoffe (von Bäckereien, Schlachthöfen, Molkereien, Brauereien, usw.), kommunale Abfälle (z.B. Strauchschnitt) sowie gesammelter Biomüll aus privaten Haushalten in Frage. In den letzten Jahren wurden zudem zunehmend „NAWARO“-Pflanzen (Nachwachsende Rohstoffe) wie Mais, Soja, Rüben oder Getreide, die ausschließlich für die Produktion von Biogas angepflanzt werden, verwendet. Obwohl äußerst effizient in der Energiegewinnung, muss hierbei jedoch die ethische Fragestellung aufgeworfen werden, ob potentielle Nahrungsmittel für die Energiegewinnung verwendet werden sollten. So stehen NAWARO-Pflanzen oft in direkter Flächenkonkurrenz zur Futter- und Nahrungsmittelindustrie und auch die hierfür nötigen riesigen Monokulturen sind aus ökologischer Sicht bedenklich (EU, 2014). Die Verwendung von meist lignocellulosehaltigen Reststoffen der Nahrungs- und Futtermittelerzeugung (z.B. Maisstroh, Weizenstroh) stellt eine vielversprechende Alternative dar, da sie weltweit in riesigen Mengen anfallen und nicht in Konkurrenz zur Ernährung von Mensch und Tier stehen. Diese Substrate besitzen häufig eine v.a. anaerob sehr schwer abbaubare Zusammensetzung, die eine vergleichsweise geringe Energieausbeute mit sich bringt. Unterschiedliche Vorbehandlungsmethoden (mechanisch, chemisch, thermisch, enzymatisch, biologisch über aerobe/anaerobe Pilze) können dem entgegenwirken und die Effizienz der Biogasproduktion steigern (Taherzadeh & Karimi, 2008).  
+
+Abgesehen vom verwendeten Substrat(-gemisch), hängt der Prozess der Biogasproduktion noch von einer Vielzahl weiterer Parameter, wie z.B. Temperatur, Substratdurchmischung, Fütterungsmenge und pH-Wert ab. Insbesondere die Wahl der Temperatur ist ausschlaggebend für die Effizienz der Biogasanlage und ermöglicht Betreiber/innen die Steuerung des Prozesses. Großtechnische Anlagen werden heutzutage üblicherweise unter mesophilen (30-40 °C) oder thermophilen (50-60 °C) Bedingungen betrieben (Jain et al., 2015). Neueste Studien zeigen allerdings, dass insbesondere die Lücke zwischen diesen beiden Temperaturbereichen interessant ist, da hier die Vorteile beider Bereiche kombiniert und optimale Biogasausbeuten erzielt werden können (Hupfauf et al., 2018; Tian et al., 2018). Die Vorteile mesophiler Biogasproduktion sind eine hohe Prozessstabilität (Labatut et al., 2014) sowie der geringe Energieaufwand zur konstanten Aufrechterhaltung der Temperatur im Bioreaktor. Thermophile Fermentation führt hingegen zu einer besseren Hygienisierung des anfallenden Gärrests (Sahlström, 2003) und erlaubt höhere Stoffwechselraten der beteiligten Mikroorganismen.   
+
 Ziel dieser Übung ist es, die mögliche mikrobielle Ressourcennutzung von allgemein als „Abfall“ deklarierten Stoffen aufzuzeigen. Dies soll in Form eines anaeroben Vergärungsversuchs mit einem landwirtschaftlichen Reststoff (Rindergülle) veranschaulicht werden. Um den Einfluss verschiedener Prozessparameter aufzuzeigen, sollen die Studierenden in Gruppen untereinander entscheiden, an welchen Stellschrauben sie während des Versuchs drehen wollen und deren Auswirkungen im Anschluss beobachten. Neben dem Vergleich der gemessenen Biogasausbeute und -zusammensetzung, sollen grundlegende Parameter für das Monitoring einer Biogasanlage kennengelernt werden. Zudem soll das Hygienisierungspotential mit Hilfe eines Plattierungsversuchs auf Selektivmedien beurteilt werden. Ausgewählte Reinkulturen werden außerdem molekularbiologisch identifiziert.
 
 
 ## 2.1. Der Prozess der anaeroben Vergärung
 
 Allgemein kann der Prozess der anaeroben Vergärung in vier Hauptschritte unterteilt werden (siehe Abb. 1).
-Während der zu Beginn stattfindenden Hydrolyse, die vor allem bei schwer abzubauenden Substraten die Geschwindigkeit des gesamten Prozesses bestimmt (Hasegawa et al., 2000), werden organische Polymere in kleinere Bestandteile (Zucker, Aminosäuren, Fettsäuren, usw.) zerlegt. Neben obligat anaeroben Mikroorganismen sind zu diesem Zeitpunkt auch noch fakultativ anaerobe Spezies aktiv. Acidogene Mikroorganismen bilden aus diesen Molekülen anschließend Kohlendioxid (CO2), Wasserstoff (H2), Ammonium (NH4) und organische Säuren (z.B.: Propion-, Butter-, oder Valeriansäure). Im Zuge der dritten Phase, der acetogenen Phase, bilden sekundär fermentative Bakterien Acetat, H2 und CO2. 
-Diese endergonen Reaktionen würden unter Standardbedingungen nicht bzw. nur langsam stattfinden, aber die örtliche Nähe syntropher Mikroorganismen und die sofortige Umwandlung anfallender Produkte durch methanbildende Archaeen ermöglichen diesen biochemischen Stoffwechselweg (Conrad et al., 1986). 
+Während der zu Beginn stattfindenden Hydrolyse, die vor allem bei schwer abzubauenden Substraten die Geschwindigkeit des gesamten Prozesses bestimmt (Hasegawa et al., 2000), werden organische Polymere in kleinere Bestandteile (Zucker, Aminosäuren, Fettsäuren, usw.) zerlegt. Neben obligat anaeroben Mikroorganismen sind zu diesem Zeitpunkt auch noch fakultativ anaerobe Spezies aktiv. Acidogene Mikroorganismen bilden aus diesen Molekülen anschließend Kohlendioxid (CO2), Wasserstoff (H2), Ammonium (NH4) und organische Säuren (z.B.: Propion-, Butter-, oder Valeriansäure). Im Zuge der dritten Phase, der acetogenen Phase, bilden sekundär fermentative Bakterien Acetat, H2 und CO2.  
+
+Diese endergonen Reaktionen würden unter Standardbedingungen nicht bzw. nur langsam stattfinden, aber die örtliche Nähe syntropher Mikroorganismen und die sofortige Umwandlung anfallender Produkte durch methanbildende Archaeen ermöglichen diesen biochemischen Stoffwechselweg (Conrad et al., 1986).  
+
 Bei der Methanogenese kann grundsätzlich zwischen drei verschiedenen Wegen unterschieden werden (siehe Tab. 1). Bei der hydrogenotrophen Methanbildung wird CH4 durch die Reduktion von CO2 mit H2 gebildet. Bei der acetoklastischen Methanbildung, die den quantitativ wichtigsten Reaktionsweg darstellt, wird CH4 und CO2 aus der Spaltung von Acetat gewonnen (Ahring et al., 2003). In einem dritten möglichen Stoffwechselweg werden Methylverbindungen (C1-Verbindungen) verwendet. Darüber hinaus können sogenannte homoacetogene Bakterien auch Acetate neu bilden, man spricht dabei von Homoacetogenese (Boe, 2006). Umgekehrt kann durch syntrophe Acetat Oxidation (SAO) Acetat durch SAOB (syntrophic acetate-oxidizing bacteria) in CO2 und H2 umgesetzt werden. Die anfallenden Produkte werden anschließend häufig von syntroph assoziierten hydrogenotrophen Methanogenen zur Bildung von CH4 verwendet. Dabei kommt es zu einer artenübergreifenden Übertragung von H2 oder CHO2-, man spricht von IHT (interspecies hydrogen transfer).
-Welcher Stoffwechselweg in einer Biogas Anlage aktiv ist hängt immer von den Prozessbedingungen, allen voran der Temperatur, ab.
+Welcher Stoffwechselweg in einer Biogas Anlage aktiv ist hängt immer von den Prozessbedingungen, allen voran der Temperatur, ab.  
+
 Tab. 1: Auswahl wichtiger Stoffwechselwege der Methanogenese und deren thermodynamisches Potential
-Reaktionsgleichung	ΔG0 [kJ mol-1 CH4]	Vertreter
-CO2 + 4 H2 → CH4 + 2 H2O	-135	fast alle Methanogene
-4 HCOOH → CH4 + 3 CO2 + 2 H2O	-130	fast alle Methanogene
-4 CO + 2 H2O → CH4 + 3 CO2	-196	Methanothermobacter, Methanosarcina
-4 CH3OH → 3 CH4 + CO2 + 2 H2O	-105	Methanosarcina, methylotrophe Methanogene
-CH3OH + H2 → CH4 + H2O	-113	Methanomicrococcus, Methanosphaera
-CH3COOH → CH4 + CO2	-33	Methanosarcina, Methanosaeta
- 
+Reaktionsgleichung	ΔG0 [kJ mol-1 CH4]	Vertreter  
+  CO2 + 4 H2 → CH4 + 2 H2O	-135	fast alle Methanogene  
+  4 HCOOH → CH4 + 3 CO2 + 2 H2O	-130	fast alle Methanogene  
+  4 CO + 2 H2O → CH4 + 3 CO2	-196	Methanothermobacter, Methanosarcina  
+  4 CH3OH → 3 CH4 + CO2 + 2 H2O	-105	Methanosarcina, methylotrophe Methanogene  
+  CH3OH + H2 → CH4 + H2O	-113	Methanomicrococcus, Methanosphaera  
+  CH3COOH → CH4 + CO2	-33	Methanosarcina, Methanosaeta  
+
 # 3. Material und Methoden
 
 ## 3.1. Versuchsaufbau
 
 ### 3.1.1. Reaktorsystem
-Schottflaschenreaktoren haben sich schon seit Jahren als robuste und einfach zu betreibende Reaktorsysteme im kleinen Labormaßstab bewährt. Sie können entweder als batch-Systeme oder semikontinuierliche Reaktoren betrieben werden, sind also äußerst flexibel in ihrer Betriebsweise. Nachteile sind vor allem die fehlenden integrierten Gasmess- oder Speichersysteme, was eine tägliche Kontrolle inklusive Gasentnahme der Reaktoren notwendig macht, um den Druck im Reaktorsystem nicht zu groß werden zu lassen. Zudem besteht in einem solchen Überdrucksystem immer die Gefahr von undichten Stellen, was zu erheblichen Fehlern bei der Gasmessung führen kann. Außerdem bedarf es beim Arbeiten mit Reaktoren dieser Bauart immer erhöhter Sicherheitsvorkehrungen, so sind beispielsweise stets Laborbrillen zu tragen.
+Schottflaschenreaktoren haben sich schon seit Jahren als robuste und einfach zu betreibende Reaktorsysteme im kleinen Labormaßstab bewährt. Sie können entweder als batch-Systeme oder semikontinuierliche Reaktoren betrieben werden, sind also äußerst flexibel in ihrer Betriebsweise. Nachteile sind vor allem die fehlenden integrierten Gasmess- oder Speichersysteme, was eine tägliche Kontrolle inklusive Gasentnahme der Reaktoren notwendig macht, um den Druck im Reaktorsystem nicht zu groß werden zu lassen. Zudem besteht in einem solchen Überdrucksystem immer die Gefahr von undichten Stellen, was zu erheblichen Fehlern bei der Gasmessung führen kann. Außerdem bedarf es beim Arbeiten mit Reaktoren dieser Bauart immer erhöhter Sicherheitsvorkehrungen, so sind beispielsweise stets Laborbrillen zu tragen.  
+
 Im Praktikum verwenden wir modifizierte Laborflaschen (2.35 L Volumen) mit drei Öffnungen an der Oberseite (Abb. 2). Diese Öffnungen ermöglichen den Anschluss verschiedenster Ventile, Hähne oder Messgeräte und gewährleisten eine vielseitige und individuell anpassbare Anwendung der Reaktoren. Für das Praktikum wird nur eine Öffnung (seitlich oben am Reaktor) benötigt, die zweite und dritte wird mit entsprechenden Verschlusskappen und passenden Dichtungsringen luftdicht verschlossen. An die verbleibende Öffnung wird ein gasdichter Messing-Kugelhahn geschraubt. Der Kugelhahn dient zur Fütterung, Probennahme und Gasmessung der Reaktoren. Um auch hier vollständige Dichtheit gewährleisten zu können, werden beim Zusammenbau Silikon-Dichtungsringe und Teflon-Dichtungsband verwendet. Um im Falle eines Glasbruchs die Gefahr von fliegenden Glassplittern zu reduzieren, werden die Reaktoren mit einem Sicherheitsnetz ummantelt.
 
 ### 3.1.2. Befüllung der Reaktoren
 Die Befüllung der Reaktoren erfolgt gemeinsam am ersten Praktikumstag (01.12.2023). Die anschließende Inkubation der Reaktoren über das Wochenende vor dem eigentlichen Versuchsstart am Montag (d0) ermöglicht eine Anpassung des Systems und der beteiligten Mikroorganismen an die veränderten Bedingungen und erlaubt die Untersuchung des stabilen Betriebs (ohne Start-Up Phase) im Zuge des Praktikums. Zur Befüllung wird der obere blaue Deckel abgeschraubt und 1 L gesiebte Rindergülle (< 2 mm) mit Hilfe eines Messzylinders eingefüllt. Die Gülle muss zuvor unbedingt gründlich umgerührt werden, um ein einheitliches Substrat in allen Reaktoren gewährleisten zu können. Anschließend wird der Reaktor wieder fest verschlossen und auf seine Dichtheit geprüft. Dafür wird über den Kugelhahn ein leichter Überdruck (ca. 0.5 bar) mit Hilfe einer Fahrradpumpe erzeugt (1-2 Pumpstöße) erzeugt und der Reaktor unter Wasser gehalten. Sollten Luftbläschen erkennbar sein, muss die entsprechende Stelle besser abgedichtet oder fester zugeschraubt werden. Die dichten Reaktoren werden anschließend mit geschlossenem Kugelhahn auf 37 °C inkubiert. Über das Wochenende werden die Reaktoren täglich für 10 s geschüttelt und das produzierte Biogas abgelassen.
 
 ### 3.1.3. Versuchsstart
-Am ersten Versuchstag (d0, Montag 04.12.2023) werden die Reaktoren von den jeweiligen Gruppen entsprechend ihres gewählten Stell-Parameters vorbereitet. Folgende Stellschrauben können verändert werden (jede Gruppe entscheidet sich für einen Parameter):
-- Fütterungsmenge: 50 – 200 mL
-- Temperatur: 10 – 60 °C
-- Co-Substrat: Altöl und Larven (Hermetia illucens) Restsubstrat
-- Co-Substrat (Altöl) Konzentration: 1 – 20 g/L
-- Schüttelung: 10 – 150 rpm
+Am ersten Versuchstag (d0, Montag 04.12.2023) werden die Reaktoren von den jeweiligen Gruppen entsprechend ihres gewählten Stell-Parameters vorbereitet. Folgende Stellschrauben können verändert werden (jede Gruppe entscheidet sich für einen Parameter):  
+
+- Fütterungsmenge: 50 – 200 mL  
+- Temperatur: 10 – 60 °C  
+- Co-Substrat: Altöl und Larven (Hermetia illucens) Restsubstrat  
+- Co-Substrat (Altöl) Konzentration: 1 – 20 g/L  
+- Schüttelung: 10 – 150 rpm  
 
 **WICHTIG**: Jede Gruppe betreut neben ihren vier Reaktoren (2 Ausprägungen des Stell-Parameters x 2 Replikate) auch jeweils zwei Kontrollreaktoren. Diese Reaktoren werden über die gesamte Versuchsdauer mit folgenden Referenzparametern betrieben: 37 °C, 100 mL Fütterung (ohne Co-Substrat), 0 rpm. Ein Mittelwert aus beiden Kontrollreaktoren dient anschließend als Referenz für die untersuchten Parameter der jeweiligen Gruppe.
 
@@ -273,7 +288,7 @@ Die aufgetauten Proben werden für 10 min bei 20,000 g zentrifugiert. Anschließ
 Nach der Analyse erhalten wir ein PDF-Datenblatt mit NH4-N Konzentrationen in mg L-1. Die zeitliche Veränderung der Ammoniumkonzentration (Mittelwert ± Standardabweichung) soll dann grafisch dargestellt werden.
 
 ### 3.4.5. Bestimmung der flüchtigen Fettsäuren (VFA)
-Flüchtige Fettsäuren (Formiat, Acetat, Propionat, Butyrat, Valeriat) sind wichtige Intermediär-Produkte der anaeroben Vergärung und ermöglichen die genaue Überwachung der Vorgänge innerhalb eines Bioreaktors. Eine Akkumulation weist allgemein auf eine zu hohe Beschickung (Fütterung) oder ein Ungleichgewicht der einzelnen Phasen des Prozesses hin. Zudem kann ein gehäuftes Auftreten von Propionat beispielsweise zur Hemmung der Gasproduktion führen. Deshalb verwendet man oft das Verhältnis von Acetat zu Propionat als Indikator für die Prozessstabilität (Weiland, 2008). Eine Akkumulation von Butyrat oder Valeriat, insbesondere derer Iso-Formen, ist ein weiterer deutlicher Hinweis auf Stabilitätsprobleme (Drosg, 2013). Die Messung der flüchtigen Fettsäuren erfolgt im Praktikum mit Hilfe von HPLC (Abb. 5). Dabei spielt die ähnliche Polarität der gesuchten Verbindungen eine zentrale Rolle, da diese Eigenschaft dazu genutzt wird, Stoffe an einer stationären Phase (Trennsäule) zu binden. Anschließend werden über die Veränderung der Polarität des Laufmittels (Eluent) die einzelnen Stoffe von der Trennsäule gewaschen und getrennt gesammelt. Zur Identifikation der gesammelten Verbindungen wird die jeweilige Retentionszeit herangezogen. 
+Flüchtige Fettsäuren (Formiat, Acetat, Propionat, Butyrat, Valeriat) sind wichtige Intermediär-Produkte der anaeroben Vergärung und ermöglichen die genaue Überwachung der Vorgänge innerhalb eines Bioreaktors. Eine Akkumulation weist allgemein auf eine zu hohe Beschickung (Fütterung) oder ein Ungleichgewicht der einzelnen Phasen des Prozesses hin. Zudem kann ein gehäuftes Auftreten von Propionat beispielsweise zur Hemmung der Gasproduktion führen. Deshalb verwendet man oft das Verhältnis von Acetat zu Propionat als Indikator für die Prozessstabilität (Weiland, 2008). Eine Akkumulation von Butyrat oder Valeriat, insbesondere derer Iso-Formen, ist ein weiterer deutlicher Hinweis auf Stabilitätsprobleme (Drosg, 2013). Die Messung der flüchtigen Fettsäuren erfolgt im Praktikum mit Hilfe von HPLC (Abb. 5). Dabei spielt die ähnliche Polarität der gesuchten Verbindungen eine zentrale Rolle, da diese Eigenschaft dazu genutzt wird, Stoffe an einer stationären Phase (Trennsäule) zu binden. Anschließend werden über die Veränderung der Polarität des Laufmittels (Eluent) die einzelnen Stoffe von der Trennsäule gewaschen und getrennt gesammelt. Zur Identifikation der gesammelten Verbindungen wird die jeweilige Retentionszeit herangezogen.
 
 **Durchführung**:  
 Für die VFA-Messung können die Filtrate (bereits 1:10 verdünnt), die im Zuge der Ammonium Bestimmung (3.4.4) hergestellt wurden, verwendet werden. Die Proben werden direkt auf eine zweite (gemeinsame) 96-Well Platte pipettiert, wobei ebenfalls die jeweilige Position exakt notiert werden muss! Da flüchtige Fettsäuren in der Regel sehr schnell ausgasen können und damit die Messung einem großen Fehler unterliegen würde, muss die Platte bis zur endgültigen Messung immer auf 4 °C gelagert werden. Sobald alle Gruppen ihre Proben geladen haben, wird die Platte mit Klebefolie fest versiegelt.
@@ -410,7 +425,7 @@ Jede Gruppe bereitet eine Stammlösung für alle ihre Proben (+ 1) vor. Dabei m�
 Es gibt unterschiedliche Techniken, wie DNA sequenziert werden kann. Neue System, wie z.B. Illumina, IonTorrent oder Nanopore können große Mengen an Sequenzen gleichzeitig analysieren und ermöglichen damit die Untersuchung ganzer Genome bzw. komplexer Umweltproben. Sanger Sequenzierung stellt eine bereits ältere Technologie dar, die sich allerdings aufgrund eines sehr niederen Preises und geringer Fehleranfälligkeit perfekt für die Sequenzierung einer Reinkultur eignet. Die Proben im Praktikum werden deshalb mittels Sanger Sequenzierung analysiert und die erhaltenen DNA Sequenzen anschließend geblastet. Unter Blasting versteht man den Vorgang, wenn eine DNA Sequenz mit einer bestehenden Datenbank verglichen wird und die am besten passenden Einträge gesucht werden. Dies ermöglicht die (taxonomische) Zuordnung einer unbekannten DNA Sequenz. Die Qualität der Datenbank ist entscheidend für das Ergebnis! Gängige Datenbanken für bakterielle Genfragmente (üblicherweise 16S) sind NCBI, Silva, Greengenes oder RDP.
 
 **Durchführung**:  
-Von jeder Probe werden 15 µL des gereinigten DNA Extrakts in sterile 1.5 mL Eppendorf-Tubes pipettiert. Zusätzlich werden 2 µL des verwendeten Forward-Primers (27F) zugegeben und die Tubes sorgfältig verschlossen. Jedes Tube wird mit einem bereitgestellten Prepaid Aufkleber der Sequenzierungs-Firma versehen. Anschließend müssen sowohl der Code auf dem Aufkleber als auch der dazu gehörende Probenname in das Online-Bestellformular eingetragen werden. Die fertigen Tubes werden in ein Luftblasen-Kuvert verpackt und müssen bis spätestens 16 Uhr in den Postkasten der Firma (1. UG, gegenüber dem Bodenlabor) geworfen werden. Binnen 24 h werden die Ergebnisse in Form von .fasta Dateien bereitgestellt. Die darin enthaltenen DNA Sequenzen werden dann mit Hilfe des online Blast Tools (https://blast.ncbi.nlm.nih.gov/Blast.cgi) analysiert. Als Referenzdatenbank verwenden wir die „Nucleotide collection“ Datenbank von NCBI. 
+Von jeder Probe werden 15 µL des gereinigten DNA Extrakts in sterile 1.5 mL Eppendorf-Tubes pipettiert. Zusätzlich werden 2 µL des verwendeten Forward-Primers (27F) zugegeben und die Tubes sorgfältig verschlossen. Jedes Tube wird mit einem bereitgestellten Prepaid Aufkleber der Sequenzierungs-Firma versehen. Anschließend müssen sowohl der Code auf dem Aufkleber als auch der dazu gehörende Probenname in das Online-Bestellformular eingetragen werden. Die fertigen Tubes werden in ein Luftblasen-Kuvert verpackt und müssen bis spätestens 16 Uhr in den Postkasten der Firma (1. UG, gegenüber dem Bodenlabor) geworfen werden. Binnen 24 h werden die Ergebnisse in Form von .fasta Dateien bereitgestellt. Die darin enthaltenen DNA Sequenzen werden dann mit Hilfe des online Blast Tools (https://blast.ncbi.nlm.nih.gov/Blast.cgi) analysiert. Als Referenzdatenbank verwenden wir die „Nucleotide collection“ Datenbank von NCBI.
 
 
 # 4. Literaturverzeichnis
@@ -441,7 +456,6 @@ Von jeder Probe werden 15 µL des gereinigten DNA Extrakts in sterile 1.5 mL Epp
 1. Weiland, P., 2008. Wichtige Messdaten für den Prozessablauf und Stand der Technik in der Praxis. Gülzower Fachgespräche. 27, 17-31.  
 1. Yadvika, Sreekrishnan, T., Kohli, S., Rana, V., 2004. Enhancement of biogas production from solid substrates using different techniques––a review. Bioresource technology. 95(1), 1-10.  
 
- 
 # Anhang
 Tab 6: Ampelsystem der BOKU Wien zur Einschätzung der gemessenen Parameter bezüglich der Arbeitsweise des Biogas-Reaktors (Laaber, 2012).
 
