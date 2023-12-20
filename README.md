@@ -9,32 +9,47 @@ Repository containing the materials for the lab course on anaerobic digestion.
 
 ## Protocol
 
-- **German** version  
-- **English** version  
+-   [**German**](https://tklammsteiner.github.io/waste-management-course/docs/protokoll_deutsch/protokoll_deutsch.html) version\
+-   [**English**](https://tklammsteiner.github.io/waste-management-course/docs/protocol_english/protocol_english.html) version
 
 <br>
 
 ## Slides
 
-- Day 1 - [Introduction](https://tklammsteiner.github.io/waste-management-course/docs/day_1/biogas_ue_day_1.html)
-- Day 4 - 
-- Day 6 - 
-- Day 8 -
-- Day 10 -
+-   Day 1 - [Introduction](https://tklammsteiner.github.io/waste-management-course/docs/day_1/biogas_ue_day_1.html)
+-   Day 4 - [Pathogen test & isolation](https://tklammsteiner.github.io/waste-management-course/docs/day_1/biogas_ue_day_4.html)
+-   Day 6 - [Colony PCR](https://tklammsteiner.github.io/waste-management-course/docs/day_1/biogas_ue_day_6.html)
+-   Day 8 - [Biomolecular characterization 1](https://tklammsteiner.github.io/waste-management-course/docs/day_1/biogas_ue_day_8.html)
+-   Day 10 - [Biomolecular characterization 2](https://tklammsteiner.github.io/waste-management-course/docs/day_1/biogas_ue_day_10.html)
+
+<br>
+
+# Help section
 
 ## Abstract template
 
-- [Download abstract template](https://tklammsteiner.github.io/waste-management-course/docs/abstract_lastname.docx)
+-   [Download abstract template](https://tklammsteiner.github.io/waste-management-course/docs/abstract_lastname.docx)
 
+**Instructions:** Stick to the provided format and don't change any site or font settings. Before submitting the final version of your abstract, please rename the document with "abstract\_\<yourlastname\>.docx". Please do not convert the document to .pdf.
+
+Tipps + writing help:
+
+-   Grech, V., 2018. WASP (Write a Scientific Paper): Preparing an abstract. Early Hum Dev 125, 51--52. <https://doi.org/10.1016/j.earlhumdev.2018.06.005>
+
+<br>
 
 ## Poster guidelines
 
+Tipps + design help:
+
+-   Gundogan, B., Koshy, K., Kurar, L., Whitehurst, K., 2016. How to make an academic poster. Ann Med Surg 11, 69--71. <https://doi.org/10.1016/j.amsu.2016.09.001>
+
+<br>
 
 ## Tips for your presentation
 
-
-
 <br>
+
 
 ***
 
