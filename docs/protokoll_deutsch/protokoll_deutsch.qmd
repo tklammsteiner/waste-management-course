@@ -30,6 +30,10 @@ editor: visual
 
 <br>
 
+![](../../assets/img/titelbild.png)
+
+<br>
+
 **Praktikumsleitung**:
 
 -   Thomas Klammsteiner, PhD\
@@ -58,7 +62,7 @@ editor: visual
 **Abkürzungen**:
 
 | Abkürzung | Erklärung                                                                   |
-|------------------------------------|------------------------------------|
+|-----------|------------------------------------|
 | CNP       | Probennahme für C/N-Analyse                                                 |
 | CSB       | Chemischer Sauerstoffbedarf                                                 |
 | EC        | elektrische Leitfähigkeit (Electrical Conductivity)                         |

@@ -30,6 +30,10 @@ editor: visual
 
 <br>
 
+![](../../assets/img/titelbild.png)
+
+<br>
+
 **Course supervisors**:
 
 -   Thomas Klammsteiner, PhD\
@@ -49,15 +53,15 @@ editor: visual
 
 **Source reference cover picture**:
 
--   Biogasanlage Jühnde [http://www.goettinger-tageblatt.de](http://www.goettinger-tageblatt.de)
--   Kuh in den Alpen [https://www.kleinezeitung.at](https://www.kleinezeitung.at)
+-   Biogas plant Jühnde [http://www.goettinger-tageblatt.de](http://www.goettinger-tageblatt.de)
+-   Cow in the Alps [https://www.kleinezeitung.at](https://www.kleinezeitung.at)
 
 <br>
 
 **Abbreviations**:
 
 | Abkürzung | Erklärung                                                                   |
-|------------------------------------|------------------------------------|
+|-----------|------------------------------------|
 | CNP       | Probennahme für C/N-Analyse                                                 |
 | CSB       | Chemischer Sauerstoffbedarf                                                 |
 | EC        | elektrische Leitfähigkeit (Electrical Conductivity)                         |
