@@ -9,7 +9,7 @@ Repository containing the materials for the lab course on anaerobic digestion.
 
 ## Protocol
 
--   [**German**](https://tklammsteiner.github.io/waste-management-course/docs/protokoll_deutsch/protokoll_deutsch.html) version\
+-   [**German**](https://tklammsteiner.github.io/waste-management-course/docs/protokoll_deutsch/protokoll_deutsch.html) version
 -   [**English**](https://tklammsteiner.github.io/waste-management-course/docs/protocol_english/protocol_english.html) version
 
 <br>
@@ -32,7 +32,7 @@ Repository containing the materials for the lab course on anaerobic digestion.
 
 **Instructions:** Stick to the provided format and don't change any site or font settings. Before submitting the final version of your abstract, please rename the document with "abstract\_\<yourlastname\>.docx". Please do not convert the document to .pdf.
 
-Tipps + writing help:
+## Tipps + writing help:
 
 -   Grech, V., 2018. WASP (Write a Scientific Paper): Preparing an abstract. Early Hum Dev 125, 51--52. <https://doi.org/10.1016/j.earlhumdev.2018.06.005>
 
