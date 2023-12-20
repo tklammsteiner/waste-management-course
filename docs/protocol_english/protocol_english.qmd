@@ -58,20 +58,22 @@ editor: visual
 
 <br>
 
-**Abbreviations**:
+# Schedule
 
-| Abkürzung | Erklärung                                                                   |
+<br>
+
+| Abbreviation | Description    |
 |-----------|------------------------------------|
-| CNP       | Probennahme für C/N-Analyse                                                 |
-| CSB       | Chemischer Sauerstoffbedarf                                                 |
-| EC        | elektrische Leitfähigkeit (Electrical Conductivity)                         |
-| FOS/TAC   | Alkalinität (Verhältnis von organische Säuren zur Carbonat-Pufferkapazität) |
-| GM        | Messung der Gasmenge und Gaszusammensetzung                                 |
-| PN/PNF    | Probennahmen / Probennahme und Fütterung                                    |
-| PT        | Pathogen Test mit Selektivagar-Platten                                      |
-| TS, oTS   | Trockensubstanz, organische Trockensubstanz                                 |
-| VFA       | Flüchtige Fettsäuren (Volatile Fatty Acids)                                 |
-| DNA Q&S   | DNA-Quantifizierung (Quantus) und Sanger Sequenzierung                      |
+| CNP       | Sampling for C/N-Analysis   |
+| CSB       | Chemical oxygen demand    |
+| EC        | Electrical Conductivity   |
+| FOS/TAC   | Alkalinity (Ratio of organic acids to carbonate buffer capacity)    |
+| GM        | Measuring amount and composition of gas   |
+| PN/PNF    | Sampling / Sampling and feeding    |
+| PT        | Pathogen test with selective media    |
+| TS, oTS   | Dry matter, organic dry matter    |
+| VFA       | Volatile Fatty Acids    |
+| DNA Q&S   | DNA quantification (Quantus) and Sanger sequencing    |
 
 **Objective**\
 The aim of this lab course is to simulate biogas production on a laboratory scale and to learn methods for measuring important monitoring parameters. This involves adjusting various parameters and observing the effects on gas production and other important process parameters.

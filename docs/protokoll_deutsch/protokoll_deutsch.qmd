@@ -59,7 +59,9 @@ editor: visual
 
 <br>
 
-**Abkürzungen**:
+# Zeitplan
+
+<br>
 
 | Abkürzung | Erklärung                                                                   |
 |-----------|------------------------------------|
