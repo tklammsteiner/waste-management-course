@@ -1,13 +1,13 @@
 ---
 title: "Waste Management Lab Course (**718837 UE Biogas**)"
 subtitle: "Universität Innsbruck | Department of Microbiology"
-author: "Thomas Klammsteiner"
+author: "Thomas Klammsteiner, Sebastian Hupfauf"
 output: html_document
 ---
 
 <br>
 
-<img src="https://tklammsteiner.github.io/waste-management-course/assets/img/titelbild.png" alt="Title image" width=75%/>
+<img src="https://tklammsteiner.github.io/waste-management-course/assets/img/titelbild.png" alt="Title image" width=50%/>
 
 <br>
 
@@ -18,7 +18,6 @@ Find the current course details (dates and deadlines) at [uibk.ac.at](https://lf
 -   [**German**](https://tklammsteiner.github.io/waste-management-course/docs/protokoll_deutsch/protokoll_deutsch.html) version\
 -   [**English**](https://tklammsteiner.github.io/waste-management-course/docs/protocol_english/protocol_english.html) version
 
-<br>
 
 ## Slides
 
@@ -29,6 +28,8 @@ Find the current course details (dates and deadlines) at [uibk.ac.at](https://lf
 -   Day 10 - [Biomolecular characterization 2](https://tklammsteiner.github.io/waste-management-course/docs/day_1/biogas_ue_day_10.html)
 
 <br>
+
+*** 
 
 # Help section
 
@@ -42,7 +43,6 @@ Tipps + writing help:
 
 -   Grech, V., 2018. WASP (Write a Scientific Paper): Preparing an abstract. Early Hum Dev 125, 51--52. <https://doi.org/10.1016/j.earlhumdev.2018.06.005>
 
-<br>
 
 ## Poster guidelines
 
@@ -50,7 +50,6 @@ Tipps + design help:
 
 -   Gundogan, B., Koshy, K., Kurar, L., Whitehurst, K., 2016. How to make an academic poster. Ann Med Surg 11, 69--71. <https://doi.org/10.1016/j.amsu.2016.09.001>
 
-<br>
 
 ## Tips for your presentation
 

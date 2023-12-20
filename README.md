@@ -1,7 +1,7 @@
 # Waste Management Lab Course (**718837 UE Biogas**)
 #### Universität Innsbruck | Department of Microbiology
 
-<img src="https://tklammsteiner.github.io/waste-management-course/assets/img/titelbild.png" alt="Title image" width=75%/>
+<img src="https://tklammsteiner.github.io/waste-management-course/assets/img/titelbild.png" alt="Title image" width=50%/>
 
 ## Find the current course details (dates and deadlines) at [uibk.ac.at](https://lfuonline.uibk.ac.at/public/lfuonline_lv.details?sem_id_in=23W&lvnr_id_in=718837&sprache_in=en) and  [OLAT](https://lms.uibk.ac.at/url/RepositoryEntry/5478907904)
 
@@ -14,7 +14,6 @@ Repository containing the materials for the lab course on anaerobic digestion.
 -   [**German**](https://tklammsteiner.github.io/waste-management-course/docs/protokoll_deutsch/protokoll_deutsch.html) version
 -   [**English**](https://tklammsteiner.github.io/waste-management-course/docs/protocol_english/protocol_english.html) version
 
-<br>
 
 ## Slides
 
@@ -26,6 +25,8 @@ Repository containing the materials for the lab course on anaerobic digestion.
 
 <br>
 
+***
+
 # Help section
 
 ## Abstract template
@@ -34,11 +35,10 @@ Repository containing the materials for the lab course on anaerobic digestion.
 
 **Instructions:** Stick to the provided format and don't change any site or font settings. Before submitting the final version of your abstract, please rename the document with "abstract\_\<yourlastname\>.docx". Please do not convert the document to .pdf.
 
-## Tipps + writing help:
+Tipps + writing help:
 
 -   Grech, V., 2018. WASP (Write a Scientific Paper): Preparing an abstract. Early Hum Dev 125, 51--52. <https://doi.org/10.1016/j.earlhumdev.2018.06.005>
 
-<br>
 
 ## Poster guidelines
 
@@ -46,7 +46,6 @@ Tipps + design help:
 
 -   Gundogan, B., Koshy, K., Kurar, L., Whitehurst, K., 2016. How to make an academic poster. Ann Med Surg 11, 69--71. <https://doi.org/10.1016/j.amsu.2016.09.001>
 
-<br>
 
 ## Tips for your presentation
 
