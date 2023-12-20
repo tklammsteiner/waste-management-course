@@ -23,7 +23,10 @@ format:
     toc: true
     toc-title: Inhalt
     toc-location: left
-    theme: flatly
+    theme: 
+      light: flatly
+      dark: darkly
+    css: css/custom.css
     page-layout: full
 editor: visual
 ---

@@ -23,7 +23,10 @@ format:
     toc: true
     toc-title: Inhalt
     toc-location: left
-    theme: flatly
+    theme: 
+      light: flatly
+      dark: darkly
+    css: css/custom.css
     page-layout: full
 editor: visual
 ---
@@ -152,6 +155,7 @@ Allgemein kann der Prozess der anaeroben Vergärung in vier Hauptschritte untert
 Diese endergonen Reaktionen würden unter Standardbedingungen nicht bzw. nur langsam stattfinden, aber die örtliche Nähe syntropher Mikroorganismen und die sofortige Umwandlung anfallender Produkte durch methanbildende Archaeen ermöglichen diesen biochemischen Stoffwechselweg (Conrad et al., 1986).
 
 Bei der Methanogenese kann grundsätzlich zwischen drei verschiedenen Wegen unterschieden werden (siehe Tab. 1). Bei der hydrogenotrophen Methanbildung wird CH<sub>4</sub> durch die Reduktion von CO<sub>2</sub> mit H<sub>2</sub> gebildet. Bei der acetoklastischen Methanbildung, die den quantitativ wichtigsten Reaktionsweg darstellt, wird CH<sub>4</sub> und CO<sub>2</sub> aus der Spaltung von Acetat gewonnen (Ahring et al., 2003). In einem dritten möglichen Stoffwechselweg werden Methylverbindungen (C1-Verbindungen) verwendet. Darüber hinaus können sogenannte homoacetogene Bakterien auch Acetate neu bilden, man spricht dabei von Homoacetogenese (Boe, 2006). Umgekehrt kann durch syntrophe Acetat Oxidation (SAO) Acetat durch SAOB (syntrophic acetate-oxidizing bacteria) in CO<sub>2</sub> und H<sub>2</sub> umgesetzt werden. Die anfallenden Produkte werden anschließend häufig von syntroph assoziierten hydrogenotrophen Methanogenen zur Bildung von CH<sub>4</sub> verwendet. Dabei kommt es zu einer artenübergreifenden Übertragung von H<sub>2</sub> oder CHO<sub>2</sub>-, man spricht von IHT (interspecies hydrogen transfer). Welcher Stoffwechselweg in einer Biogas Anlage aktiv ist hängt immer von den Prozessbedingungen, allen voran der Temperatur, ab.
+
 
 <caption>Tab. 1: Auswahl wichtiger Stoffwechselwege der Methanogenese und deren thermodynamisches Potential.</caption>
 
