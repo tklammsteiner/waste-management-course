@@ -328,16 +328,20 @@ Da organisches Material in der Regel verschieden viel Wasser beinhaltet, stellt 
 
 **Formeln zur Berechnung**:
 
-$\displaystyle TS \[% FM\] = Trockenrückstand \[g\] x 100 / FM \[g\]$
-WG \[% FM\] = 100% - TS \[% FM\]  
-aoTS \[% TS\] = Muffelrückstand \[g\] x 100 / TS \[g\]  
-oTS \[% TS\] = 100% - aoTS \[% TS\]  
+$TS \ [\% FM] \ = \ Trockenrückstand \ [g] \ × \ \frac{100}{FM \ [g]}$  
+
+$WG \ [\% FM] \ = \ 100\% \ - \ TS \ [\% FM]$  
+
+$aoTS \ [\% TS] \ = \ \frac{Muffelrückstand \ [g] \ × \ 100} {TS \ [g]}$  
+
+$oTS \ [\% TS] \ = \ 100\% \ - \ aoTS \ [\% TS]$  
+
 
 **FM** ... **F**risch**m**asse  
 **WG** ... **W**asser**g**ehalt  
 **aoTS** ... **a**n**o**rganische **T**rocken**s**ubstanz  
 
-oTS \[% FM\] = TS \[% FM\] x oTS \[% TS\]
+$oTS \ [\% FM] \ = \ TS \ [\% FM] \ × \ oTS \ [\% TS]$
 
 **Auswertung**:\
 TS und oTS (angegeben in Prozent der Frischmasse) sollen grafisch über den Zeitverlauf für alle Ansätze und die Kontrolle dargestellt werden (Mittelwert ± Standardabweichung).

@@ -327,16 +327,20 @@ Sludge samples (at least 30 g) from the pH measurement (3.4.1) or the EC measure
 
 **Formulas for calculation**:
 
-DM \[% FM\] = Dried residue \[g\] x 100 / FM \[g\]  
-WC \[% FM\] = 100% - DM \[% FM\]  
-ioDM \[% TS\] = muffle residue \[g\] x 100 / DM \[g\]  
-oDM \[% TS\] = 100% - ioDM \[% TS\]  
+$DM \ [\% FM] \ = \ Dried residue \ [g] \ × \ \frac{100}{FM \ [g]}$  
+
+$WC \ [\% FM] \ = \ 100\% \ - \ DM \ [\% FM]$  
+
+$ioDM \ [\% TS] \ = \ \frac{muffle residue \ [g] \ × \ 100} {DM \ [g]}$  
+
+$oDM \ [\% TS] \ = \ 100\% \ - \ ioDM \ [\% DM]$  
 
 **FM** ... **F**resh **M**atter  
 **WC** ... **W**ater **C**ontent  
 **ioDM** ... **i**n**o**rganic **D**ry **M**atter  
 
-oTS \[% FM\] = DM \[% FM\] x oDM \[% TS\]
+$oDM \ [\% FM] \ = \ DM \ [\% FM] \ × \ oDM \ [\% DM]$
+
 
 **Evaluation**:\
 DM and oDM (expressed as a percentage of the fresh mass) should be shown graphically over time for all approaches and the control (mean ± standard deviation).
