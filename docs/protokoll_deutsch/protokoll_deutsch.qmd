@@ -212,7 +212,7 @@ Die täglich produzierte Gasmenge wird druckbasiert mit Hilfe eines digitalen Ma
 **Auswertung**:\
 Die produzierte Menge an Biogas wird anschließend anhand folgender Formel berechnet:  
 
-$Biogas \ [NmL] = \displaystyle \frac{∆P \ [hPa] \ × \ headspace \ [mL] \ × \ DBF(T)}{1013 \ hPa}$
+$\displaystyle Biogas \ [NmL] = \frac{∆P \ [hPa] \ × \ headspace \ [mL] \ × \ DBF(T)}{1013 \ hPa}$
 
 Das Headspace-Volumen der Reaktoren im Praktikum beträgt 1350 mL, der „Dry biogas factor" (DBF, Richards et al. (1991)) für die entsprechende Temperatur wird aus <b>Tab. 2</b> entnommen. Als Ergebnis erhält man die produzierte Gasmenge unter Normbedingungen (0 °C, 1013 hPa) unter Berücksichtigung des enthaltenen Wasserdampfs (= trockenes Biogas). Schlussendlich soll die zeitliche Veränderung aller untersuchten Varianten im Vergleich zur Kontrolle sowie die akkumulierte Gasproduktion am Ende des Versuchszeitraums grafisch dargestellt werden (Mittelwerte ± Standardabweichung). 
 
@@ -279,7 +279,7 @@ Da sowohl bei der Eichung der pH-Elektrode als auch bei der Titration Säuren ve
 **Auswertung**:\
 Aus den erhaltenen Messwerten (Säurevolumen) errechnet man anschließend das FOS/TAC Verhältnis anhand folgender Formel:
 
-$FOS⁄TAC \ [\frac{mg/L}{mg/L}] \ = \ \frac{(B \ × \ \frac{20}{V_P} \ × \ 1.66 \ -  \ 0.15) \ × \ 500 \ × \ V_P}{A \ × \ 5000}$
+$\displaystyle FOS⁄TAC \ [\frac{mg/L}{mg/L}] \ = \ \frac{(B \ × \ \frac{20}{V_P} \ × \ 1.66 \ -  \ 0.15) \ × \ 500 \ × \ V_P}{A \ × \ 5000}$
 
 A = Volumen \[mL\] der Säure bis pH 5.0  
 B = Volumen \[mL\] der Säure von pH 5.0 bis pH 4.4  
@@ -328,7 +328,7 @@ Da organisches Material in der Regel verschieden viel Wasser beinhaltet, stellt 
 
 **Formeln zur Berechnung**:
 
-TS \[% FM\] = Trockenrückstand \[g\] x 100 / FM \[g\]  
+$\displaystyle TS \[% FM\] = Trockenrückstand \[g\] x 100 / FM \[g\]$
 WG \[% FM\] = 100% - TS \[% FM\]  
 aoTS \[% TS\] = Muffelrückstand \[g\] x 100 / TS \[g\]  
 oTS \[% TS\] = 100% - aoTS \[% TS\]  
