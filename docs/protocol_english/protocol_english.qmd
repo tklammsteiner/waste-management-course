@@ -148,13 +148,13 @@ The aim of this lab course is to demonstrate the possible microbial resource uti
 
 ## 2.1. The process of anaerobic digestion
 
-In general, the process of anaerobic digestion can be divided into four main steps (see Fig. 1). During the initial hydrolysis, which determines the speed of the entire process, especially for substrates that are difficult to degrade (Hasegawa et al., 2000), organic polymers are broken down into smaller components (sugars, amino acids, fatty acids, etc.). In addition to obligate anaerobic microorganisms, facultative anaerobic species are also active at this stage. Acidogenic microorganisms subsequently form carbon dioxide (CO<sub>2</sub>), hydrogen (H<sub>2</sub>), ammonium (NH<sub>4</sub>) and organic acids (e.g. propionic, butyric or valeric acid) from these molecules. In the course of the third phase, the acetogenic phase, secondary fermentative bacteria form acetate, H<sub>2</sub> and CO<sub>2</sub>.
+In general, the process of anaerobic digestion can be divided into four main steps (see <b>Fig. 1</b>). During the initial hydrolysis, which determines the speed of the entire process, especially for substrates that are difficult to degrade (Hasegawa et al., 2000), organic polymers are broken down into smaller components (sugars, amino acids, fatty acids, etc.). In addition to obligate anaerobic microorganisms, facultative anaerobic species are also active at this stage. Acidogenic microorganisms subsequently form carbon dioxide (CO<sub>2</sub>), hydrogen (H<sub>2</sub>), ammonium (NH<sub>4</sub>) and organic acids (e.g. propionic, butyric or valeric acid) from these molecules. In the course of the third phase, the acetogenic phase, secondary fermentative bacteria form acetate, H<sub>2</sub> and CO<sub>2</sub>.
 
 These endergonic reactions would not take place under standard conditions, or only slowly, but the local proximity of syntrophic microorganisms and the immediate conversion of the resulting products by methane-forming archaea enable this biochemical metabolic pathway (Conrad et al., 1986).
 
-In methanogenesis, a fundamental distinction can be made between three different pathways (see Table 1). In hydrogenotrophic methane formation, CH<sub>4</sub> is formed by the reduction of CO<sub>2</sub> with H<sub>2</sub>. In acetoclastic methane formation, which is quantitatively the most important reaction pathway, CH<sub>4</sub> and CO<sub>2</sub> are obtained from the cleavage of acetate (Ahring et al., 2003). In a third possible metabolic pathway, methyl compounds (C1 compounds) are used. In addition, so-called homoacetogenic bacteria can also form new acetates, which is referred to as homoacetogenesis (Boe, 2006). Conversely, acetate can be converted into CO<sub>2</sub> and H<sub>2</sub> by SAOB (syntrophic acetate-oxidising bacteria) through syntrophic acetate oxidation (SAO). The resulting products are then frequently utilised by syntrophically associated hydrogenotrophic methanogens to form CH<sub>4</sub>. This results in an interspecies transfer of H<sub>2</sub> or CHO<sub>2</sub>-, known as IHT (interspecies hydrogen transfer). Which metabolic pathway is active in a biogas plant always depends on the process conditions, above all the temperature.
+In methanogenesis, a fundamental distinction can be made between three different pathways (see <b>Tab. 1</b>). In hydrogenotrophic methane formation, CH<sub>4</sub> is formed by the reduction of CO<sub>2</sub> with H<sub>2</sub>. In acetoclastic methane formation, which is quantitatively the most important reaction pathway, CH<sub>4</sub> and CO<sub>2</sub> are obtained from the cleavage of acetate (Ahring et al., 2003). In a third possible metabolic pathway, methyl compounds (C1 compounds) are used. In addition, so-called homoacetogenic bacteria can also form new acetates, which is referred to as homoacetogenesis (Boe, 2006). Conversely, acetate can be converted into CO<sub>2</sub> and H<sub>2</sub> by SAOB (syntrophic acetate-oxidising bacteria) through syntrophic acetate oxidation (SAO). The resulting products are then frequently utilised by syntrophically associated hydrogenotrophic methanogens to form CH<sub>4</sub>. This results in an interspecies transfer of H<sub>2</sub> or CHO<sub>2</sub>-, known as IHT (interspecies hydrogen transfer). Which metabolic pathway is active in a biogas plant always depends on the process conditions, above all the temperature.
 
-<caption>Table 1: Selection of important metabolic pathways of methanogenesis and their thermodynamic potential.</caption>
+<caption><b>Tab. 1:</b> <i>Selection of important metabolic pathways of methanogenesis and their thermodynamic potential.</i></caption>
 
 | Reaction formula                                                            | ΔG0 \[kJ mol<sup>-1</sup> CH<sub>4</sub>\] | Representative                            |
 |------------------------|------------------------|------------------------|
@@ -173,7 +173,7 @@ In methanogenesis, a fundamental distinction can be made between three different
 
 Schott bottle reactors have proven themselves for years as robust and easy-to-operate reactor systems on a small laboratory scale. They can be operated either as batch systems or semi-continuous reactors and are therefore extremely flexible in their mode of operation. The main disadvantages are the lack of integrated gas measurement or storage systems, which means that the reactors have to be checked daily, including gas sampling, to prevent the pressure in the reactor system from becoming too high. In addition, there is always a risk of leaks in such a pressurised system, which can lead to significant errors in gas measurement. In addition, increased safety precautions are always required when working with reactors of this type, for example laboratory goggles must always be worn.
 
-We use modified laboratory bottles (2.35 litre volume) with three openings at the top (Fig. 2). These openings allow the connection of various valves, taps or measuring devices and ensure a versatile and customisable use of the reactors. Only one opening (on the side at the top of the reactor) is required for the practical course; the second and third openings are sealed airtight with appropriate sealing caps and suitable sealing rings. A gas-tight brass ball valve is screwed onto the remaining opening. The ball valve is used for feeding, sampling and gas measurement of the reactors. Silicone sealing rings and Teflon sealing tape are used during assembly to ensure complete tightness. To reduce the risk of flying glass splinters in the event of glass breakage, the reactors are encased in a safety net.
+We use modified laboratory bottles (2.35 litre volume) with three openings at the top (<b>Fig. 2</b>). These openings allow the connection of various valves, taps or measuring devices and ensure a versatile and customisable use of the reactors. Only one opening (on the side at the top of the reactor) is required for the practical course; the second and third openings are sealed airtight with appropriate sealing caps and suitable sealing rings. A gas-tight brass ball valve is screwed onto the remaining opening. The ball valve is used for feeding, sampling and gas measurement of the reactors. Silicone sealing rings and Teflon sealing tape are used during assembly to ensure complete tightness. To reduce the risk of flying glass splinters in the event of glass breakage, the reactors are encased in a safety net.
 
 ### 3.1.2. Filling the reactors
 
@@ -208,11 +208,13 @@ Determining the amount of gas is of particular interest in large-scale plants, a
 The amount of gas produced each day is determined on the basis of pressure using a digital manometer. Procedure: The reactors are removed individually from the incubators and placed in a well-ventilated area (e.g. near the tilted window). The time the reactor spends outside the incubator must be minimised. Otherwise the process can be significantly disturbed and reproducible measurements are no longer possible. The connecting piece of the manometer is connected to the silicone tube at the end of the ball valve. The ball valve is then opened slowly and the differential pressure displayed between inside and outside the reactor is noted. It should be noted that the pressure gauge needs a certain amount of time to reach a constant value. If the pressure drops continuously, the tightness of the connection must be checked! **ATTENTION**: We are working with pressurised reactor systems here! This requires considered and calm action. It is essential to wear safety goggles during the pressure measurement!
 
 **Evaluation**:\
-The amount of biogas produced is then calculated using the following formula: Biogas \[NmL\]= (∆P \[hPa\] × headspace \[mL\]× DBF(T))/(1013 hPa)
+The amount of biogas produced is then calculated using the following formula:  
 
-The headspace volume of the reactors in the practical course is 1350 mL, the "dry biogas factor" (DBF, Richards et al. (1991)) for the corresponding temperature is taken from Table 2. The result is the amount of gas produced under standard conditions (0 °C, 1013 hPa), taking into account the water vapour contained (= dry biogas). Finally, the change over time of all analysed variants compared to the control as well as the accumulated gas production at the end of the test period are shown graphically (mean values ± standard deviation). 
+$Biogas\ [NmL] = \displaystyle \frac{∆P \ [hPa] \ × \ headspace \ [mL] \ × \ DBF(T)}{1013 \ hPa}$
 
-<caption>Table 2: Temperature-specific "dry biogas factor" (DBF, Richards et al. (1991)) for the calculation of dry biogas.</caption>
+The headspace volume of the reactors in the practical course is 1350 mL, the "dry biogas factor" (DBF, Richards et al. (1991)) for the corresponding temperature is taken from <b>Tab. 2</b>. The result is the amount of gas produced under standard conditions (0 °C, 1013 hPa), taking into account the water vapour contained (= dry biogas). Finally, the change over time of all analysed variants compared to the control as well as the accumulated gas production at the end of the test period are shown graphically (mean values ± standard deviation). 
+
+<caption><b>Tab. 2</b>: <i>Temperature-specific "dry biogas factor" (DBF, Richards et al. (1991)) for the calculation of dry biogas.</i></caption>
 
 |   |10 °C    |20 °C    |37 °C    |45 °C    |55 °C    |60 °C    |
 |---|---|---|---|---|---|---|
@@ -221,7 +223,7 @@ The headspace volume of the reactors in the practical course is 1350 mL, the "dr
 
 ### 3.3.2. Gas composition
 
-The gas composition is measured using a mobile infrared gas analyser (IRGA; GA5000, Geotech, UK; Fig. 3). This device measures CO<sub>2</sub>, CH<sub>4</sub>, H<sub>2</sub>S, O<sub>2</sub> and residual gas photometrically depending on the adsorption of the emitted infrared light by the gas sample. Each gas sample absorbs different amounts of radiation depending on the gases. Each IRGA can only measure the gases for which reference chambers have been installed. Other measuring methods such as gas chromatography or chemical processes must therefore be used to measure any other trace gases relevant to the process (e.g. H<sub>2</sub>, NH<sub>3</sub>). Regular calibration of the IRGA is important, which is carried out with a calibration gas and ambient air and must be performed every six months for the device. To demonstrate an alternative measurement method, H<sub>2</sub>S measurement using Dräger-Tubes will be demonstrated during the practical course (detailed instructions will be provided during the practical course). The H<sub>2</sub>S content in biogas is of great importance, as this gas causes corrosion damage to metal components (e.g. in combustion engines) in high concentrations (\> 200 ppm). Highly contaminated gas must therefore be purified before use. In addition, increased H<sub>2</sub>S concentrations in the anaerobic system are toxic to microorganisms, especially methanogens (at pH 7.8-8: 50% inhibition from 90 mg L<sup>-1</sup>; Koster et al. (1986)), and are also harmful to humans in the air we breathe (irritation from 100-200 ppm!).
+The gas composition is measured using a mobile infrared gas analyser (IRGA; GA5000, Geotech, UK; <b>Fig. 3</b>). This device measures CO<sub>2</sub>, CH<sub>4</sub>, H<sub>2</sub>S, O<sub>2</sub> and residual gas photometrically depending on the adsorption of the emitted infrared light by the gas sample. Each gas sample absorbs different amounts of radiation depending on the gases. Each IRGA can only measure the gases for which reference chambers have been installed. Other measuring methods such as gas chromatography or chemical processes must therefore be used to measure any other trace gases relevant to the process (e.g. H<sub>2</sub>, NH<sub>3</sub>). Regular calibration of the IRGA is important, which is carried out with a calibration gas and ambient air and must be performed every six months for the device. To demonstrate an alternative measurement method, H<sub>2</sub>S measurement using Dräger-Tubes will be demonstrated during the practical course (detailed instructions will be provided during the practical course). The H<sub>2</sub>S content in biogas is of great importance, as this gas causes corrosion damage to metal components (e.g. in combustion engines) in high concentrations (\> 200 ppm). Highly contaminated gas must therefore be purified before use. In addition, increased H<sub>2</sub>S concentrations in the anaerobic system are toxic to microorganisms, especially methanogens (at pH 7.8-8: 50% inhibition from 90 mg L<sup>-1</sup>; Koster et al. (1986)), and are also harmful to humans in the air we breathe (irritation from 100-200 ppm!).
 
 **Execution**:\
 For the measurement, 100 mL of biogas is removed from the reactor using a glass syringe. Like the pressure measurement, the sample is taken via the ball valve. The tip of the glass syringe is connected to the silicone tube and the valve is then carefully opened. The gas withdrawal can be precisely controlled by turning the ball valve slightly. Avoid opening the valve too quickly, as otherwise the plunger could be pushed out of the syringe and damage to the material or injuries could occur. The filled glass syringe is then connected to the IRGA and the measurement is started by pressing the PURGE button. Once the syringe is completely empty, the measurement must be stopped manually by pressing the FLUSH button again. After a short equilibration time, the concentrations of the gases CH<sub>4</sub>, CO<sub>2</sub>, H<sub>2</sub>S and O<sub>2</sub> are displayed. The device must be purged with room air between each measurement (until CO<sub>2</sub> and CH<sub>4</sub> \< 0.2%)! Immediately after the analysis, the excess biogas is drained into the reactors, thus reducing the overpressure. Discharge takes place exclusively in the designated area (fume cupboard)! **ATTENTION**: As the reactors are still pressurised up to this point, the determination of the gas composition must also be carried out carefully and cautiously. This includes in particular the wearing of protective goggles!
@@ -247,7 +249,7 @@ The course of the electrical conductivity should be shown graphically over time 
 
 ### 3.4.3. FOS/TAC ratio
 
-The FOS/TAC value describes the ratio of volatile organic acids (FOS) to carbonate alkalinity (total inorganic carbonate, TAC). The alkalinity in the reactor sludge is a measure of the alkaline buffer capacity of the system and determines how robust the pH value is against an accumulation of acids. If a bioreactor has a high alkalinity, a slight accumulation of VFAs will not immediately disrupt the process. FOS/TAC is therefore a standard parameter for assessing the stability of a bioreactor. The measurement is typically carried out by titration to the two pH values 4.4 (FOS) and 5.0 (TAC). In the course of the practical course, titration is carried out using an automatic titrator (Fig. 4) and 0.1 N sulphuric acid.
+The FOS/TAC value describes the ratio of volatile organic acids (FOS) to carbonate alkalinity (total inorganic carbonate, TAC). The alkalinity in the reactor sludge is a measure of the alkaline buffer capacity of the system and determines how robust the pH value is against an accumulation of acids. If a bioreactor has a high alkalinity, a slight accumulation of VFAs will not immediately disrupt the process. FOS/TAC is therefore a standard parameter for assessing the stability of a bioreactor. The measurement is typically carried out by titration to the two pH values 4.4 (FOS) and 5.0 (TAC). In the course of the practical course, titration is carried out using an automatic titrator (<b>Fig. 4</b>) and 0.1 N sulphuric acid.
 
 **Execution**:\
 A small amount of sample (e.g. 1 mL) is filled up to 50 mL in a beaker with A.d. and provided with a small magnetic stirrer. The beaker is then placed on the automatic titrator and the pH probe and the acid dosing tube are immersed in the liquid. The glass electrode must never be hit by the magnetic stirrer, as this can easily damage it! The titrator is started and the stirrer is switched on at medium speed. The appliance is controlled via the connected remote control:
@@ -276,13 +278,17 @@ As acids are used for both the calibration of the pH electrode and the titration
 **Evaluation**:\
 The FOS/TAC ratio is then calculated from the measured values (acid volume) using the following formula:
 
-FOS⁄TAC \[(mg/L)/(mg/L)\]=((├ B×20/V_P ×1.66┤-0.15)×500×V_P)/(A×5000)
+$FOS⁄TAC \ [\frac{mg/L}{mg/L}] \ = \ \frac{(B \ × \ \frac{20}{V_P} \ × \ 1.66 \ -  \ 0.15) \ × \ 500 \ × \ V_P}{A \ × \ 5000}$
 
-A = Volume \[mL\] of the acid needed to reach pH 5.0 B = Volume \[mL\] of the acid from pH 5.0 to pH 4.4 VP = Volume \[mL\] of the sample. The FOS/TAC value should be shown graphically over time for all approaches compared to the control (mean ± standard deviation).
+A = Volume \[mL\] of the acid needed to reach pH 5.0  
+B = Volume \[mL\] of the acid from pH 5.0 to pH 4.4  
+VP = Volume \[mL\] of the sample.  
+
+The FOS/TAC value should be shown graphically over time for all approaches compared to the control (mean ± standard deviation).
 
 ### 3.4.4. Ammonium content (NH<sub>4</sub>)
 
-The ammonium content in bioreactors is an important control parameter for monitoring the process. High concentrations, especially under thermophilic conditions, can lead to a considerable process disturbance and an associated drop in gas production. The measurement in the practical course is carried out by means of flow injection analysis (FIA) using the OPA/NAC method (Meseguer-Lloret et al., 2002). The ammonium reacts with ortho-phthaldialdehyde (OPA) and N-acetyl-cysteine (NAC) under alkaline conditions and, after excitation at 415 nm, is measured on a high-performance liquid chromatography (HPLC) system (Fig. 5). Alternatively, ammonium can also be measured classically using a photometer (e.g. Berthelot reaction) or with the aid of rapid cuvette tests (Nanocolor).
+The ammonium content in bioreactors is an important control parameter for monitoring the process. High concentrations, especially under thermophilic conditions, can lead to a considerable process disturbance and an associated drop in gas production. The measurement in the practical course is carried out by means of flow injection analysis (FIA) using the OPA/NAC method (Meseguer-Lloret et al., 2002). The ammonium reacts with ortho-phthaldialdehyde (OPA) and N-acetyl-cysteine (NAC) under alkaline conditions and, after excitation at 415 nm, is measured on a high-performance liquid chromatography (HPLC) system (<b>Fig. 5</b>). Alternatively, ammonium can also be measured classically using a photometer (e.g. Berthelot reaction) or with the aid of rapid cuvette tests (Nanocolor).
 
 **Execution**:\
 The thawed samples are centrifuged at 20,000 g for 10 min. The supernatant is then diluted 1:10 with A.d. and sterile-filtered in short Eprouvettes (pore size: 0.2 µm, filter material: regenerated cellulose RC). A 1:5 dilution with A.d. is then prepared and 250 µL pipetted into a 96-well plate (one common plate for all groups, note the positions!). The remaining filtrate must be stored (and sealed at 4 °C), as it is required for the VFA measurement (3.4.5). As soon as a group has pipetted all samples onto the plate, it must be covered immediately and placed at 4 °C. Otherwise there is a risk of the volatile components escaping quickly! As soon as all groups are ready, the plate is sealed with aluminum foil, taken to the analytical laboratory and loaded into the HPLC device.
@@ -292,7 +298,7 @@ After the analysis, we receive a PDF data sheet with NH<sub>4</sub>-N concentrat
 
 ### 3.4.5. Volatile fatty acids (VFAs)
 
-Volatile fatty acids (formate, acetate, propionate, butyrate, valerate) are important intermediate products of anaerobic fermentation and enable the processes within a bioreactor to be monitored precisely. Accumulation generally indicates excessive feeding or an imbalance in the individual phases of the process. In addition, an accumulation of propionate can lead to inhibition of gas production, for example. For this reason, the ratio of acetate to propionate is often used as an indicator of process stability (Weiland, 2008). An accumulation of butyrate or valerate, especially their iso-forms, is another clear indication of stability problems (Drosg, 2013). The volatile fatty acids are measured in the lab using HPLC (Fig. 5). The similar polarity of the compounds in question plays a central role, as this property is used to bind substances to a stationary phase (separation column). The individual substances are then washed from the separation column by changing the polarity of the solvent (eluent) and collected separately. The respective retention time is used to identify the collected compounds.
+Volatile fatty acids (formate, acetate, propionate, butyrate, valerate) are important intermediate products of anaerobic fermentation and enable the processes within a bioreactor to be monitored precisely. Accumulation generally indicates excessive feeding or an imbalance in the individual phases of the process. In addition, an accumulation of propionate can lead to inhibition of gas production, for example. For this reason, the ratio of acetate to propionate is often used as an indicator of process stability (Weiland, 2008). An accumulation of butyrate or valerate, especially their iso-forms, is another clear indication of stability problems (Drosg, 2013). The volatile fatty acids are measured in the lab using HPLC (<b>Fig. 5</b>). The similar polarity of the compounds in question plays a central role, as this property is used to bind substances to a stationary phase (separation column). The individual substances are then washed from the separation column by changing the polarity of the solvent (eluent) and collected separately. The respective retention time is used to identify the collected compounds.
 
 **Execution**:\
 For the VFA measurement, the filtrates (already diluted 1:10) that were prepared in the course of the ammonium determination (3.4.4) can be used. The samples are pipetted directly onto a second (common) 96-well plate, whereby the respective position must also be noted exactly! As volatile fatty acids can usually outgas very quickly and the measurement would therefore be subject to a large error, the plate must always be stored at 4 °C until the final measurement. As soon as all groups have loaded their samples, the plate is firmly sealed with adhesive foil.
@@ -302,9 +308,9 @@ The output of the HPLC is a so-called chromatogram, in which different peaks fol
 
 ### 3.4.6. Chemical oxygen demand (COD)
 
-The chemical oxygen demand is an important parameter in wastewater treatment and biogas production and a measure of the sum of all substances present in the solution that can be oxidized (by dichromate). It can be used to monitor the degree of degradation in the reactor over time and also to estimate the theoretical biogas potential. It is assumed that a complete degradation of 1 g COD produces approx. 350 mL of methane (Reinhold, 2004). The total COD content is made up of the particulate and dissolved COD. The COD can be determined either by titration or photometrically. In the course of the practical course, photometric rapid kits are used to determine the total COD. Incubation and measurement are carried out in devices designed for this purpose (NANOCOLOR thermoblock and photometer; Fig. 6).
+The chemical oxygen demand is an important parameter in wastewater treatment and biogas production and a measure of the sum of all substances present in the solution that can be oxidized (by dichromate). It can be used to monitor the degree of degradation in the reactor over time and also to estimate the theoretical biogas potential. It is assumed that a complete degradation of 1 g COD produces approx. 350 mL of methane (Reinhold, 2004). The total COD content is made up of the particulate and dissolved COD. The COD can be determined either by titration or photometrically. In the course of the practical course, photometric rapid kits are used to determine the total COD. Incubation and measurement are carried out in devices designed for this purpose (NANOCOLOR thermoblock and photometer; <b>Fig. 6</b>).
 
-Fig. 6: (A) NANOCOLOR thermoblock for incubating the round cells and (B) NANOCOLOR photometer for measuring the round cells for COD determination in the reactor sludge.
+<caption><b>Fig. 6:</b> (**A**) <i>NANOCOLOR thermoblock for incubating the round cells and</i> (**B**) <i>NANOCOLOR photometer for measuring the round cells for COD determination in the reactor sludge.</i></caption>
 
 **Execution**:\
 The thawed samples are first diluted 1:10 with A.d.. Pipette 2 mL of the solution into NANOCOLOR round cells. The cuvettes are then shaken (approx. 5 s) and incubated for 30 min at 160 °C in the NANOCOLOR heating block. After another shaking and an approx. half-hour cooling phase to room temperature, the cuvettes are measured with the NANOCOLOR photometer.
@@ -321,23 +327,27 @@ Sludge samples (at least 30 g) from the pH measurement (3.4.1) or the EC measure
 
 **Formulas for calculation**:
 
-DM \[% FM\] = Dried residue \[g\] x 100 / FM \[g\]  
-WC \[% FM\] = 100% - DM \[% FM\]  
-ioDM \[% TS\] = muffle residue \[g\] x 100 / DM \[g\]  
-oDM \[% TS\] = 100% - ioDM \[% TS\]  
+$DM \ [\% FM] \ = \ Dried residue \ [g] \ × \ \frac{100}{FM \ [g]}$  
+
+$WC \ [\% FM] \ = \ 100\% \ - \ DM \ [\% FM]$  
+
+$ioDM \ [\% TS] \ = \ \frac{muffle residue \ [g] \ × \ 100} {DM \ [g]}$  
+
+$oDM \ [\% TS] \ = \ 100\% \ - \ ioDM \ [\% DM]$  
 
 **FM** ... **F**resh **M**atter  
 **WC** ... **W**ater **C**ontent  
 **ioDM** ... **i**n**o**rganic **D**ry **M**atter  
 
-oTS \[% FM\] = DM \[% FM\] x oDM \[% TS\]
+$oDM \ [\% FM] \ = \ DM \ [\% FM] \ × \ oDM \ [\% DM]$
+
 
 **Evaluation**:\
 DM and oDM (expressed as a percentage of the fresh mass) should be shown graphically over time for all approaches and the control (mean ± standard deviation).
 
 ### 3.4.8. Carbon/Nitrogen ratio (C/N)
 
-The ratio of carbon to nitrogen is of great importance in environmental microbiology, as bioavailable nitrogen is a limiting factor for many growth processes. On the other hand, the carbon contained is the basis for biogas (CH<sub>4</sub>, CO<sub>2</sub>) in anaerobic fermentation and therefore limits the entire process. For this reason, the C/N ratio during production should be within a certain range (approx. 20-30) (Yadvika et al., 2004). If the ratio is too low, ammonium can accumulate and the pH value in the reactor can rise, which is toxic for methanogens (Wang et al., 2012). The C/N ratio in the bioreactor can be adjusted and optimized by adding different co-substrates. The amount of carbon and nitrogen is determined during the practical course using elemental analysis (Fig. 7). This involves burning the samples at 850 °C and determining the ratio of the resulting gases (CO<sub>2</sub> and N<sub>2</sub>) using an infrared gas analyzer (IRGA).
+The ratio of carbon to nitrogen is of great importance in environmental microbiology, as bioavailable nitrogen is a limiting factor for many growth processes. On the other hand, the carbon contained is the basis for biogas (CH<sub>4</sub>, CO<sub>2</sub>) in anaerobic fermentation and therefore limits the entire process. For this reason, the C/N ratio during production should be within a certain range (approx. 20-30) (Yadvika et al., 2004). If the ratio is too low, ammonium can accumulate and the pH value in the reactor can rise, which is toxic for methanogens (Wang et al., 2012). The C/N ratio in the bioreactor can be adjusted and optimized by adding different co-substrates. The amount of carbon and nitrogen is determined during the practical course using elemental analysis (<b>Fig. 7</b>). This involves burning the samples at 850 °C and determining the ratio of the resulting gases (CO<sub>2</sub> and N<sub>2</sub>) using an infrared gas analyzer (IRGA).
 
 **Execution**:\
 Samples from the TS determination (3.4.7) are ground to a fine powder and weighed into tin foils, if possible excluding residual air (max. 100-150 mg). The measurement is then carried out in the elemental analyzer. The tin foil must never be touched without gloves, as this could interfere with the measurement.
@@ -350,9 +360,9 @@ The C/N ratio is calculated from the measured concentrations of carbon and nitro
 The use of fermentation residues as fertilizer has proven to be advantageous in many respects compared to non-fermented manure and slurry. One important reason for this is the hygienization of the substrate, which takes place in the course of anaerobic fermentation. This can increase the safety of spreading on meadows and fields. However, the efficiency of this hygienization depends on various parameters such as temperature and feeding strategy and can sometimes vary significantly. In the course of the practical course, we will determine the hygienization potential of the respective reactor systems using a classical, microbiological plating approach. Three different selective media (TBX Chromocult, XLT-4, PALCAM) will be used to detect relevant pathogens (coliform bacteria, *Salmonella* spp., *Listeria* spp.). Alternatively, pathogenic organisms could also be detected by molecular biology. Typical methods for this would be PCR (qualitative only), qPCR, dPCR, ddPCR or sequencing. In addition to the selective media, the total bacterial count (on standard medium) is also determined.
 
 **Preparations**:\
-At the beginning of the practical course, sufficient plates are prepared for all analysis days and then stored in airtight packaging at 4 °C until use. The preparation is carried out according to the respective data sheets or Table 3. 
+At the beginning of the practical course, sufficient plates are prepared for all analysis days and then stored in airtight packaging at 4 °C until use. The preparation is carried out according to the respective data sheets or <b>Tab. 3</b>. 
 
-<caption>Table 3: Composition of the standard medium for determining the total bacterial count.</caption>
+<caption><b>Tab. 3:</b> <i>Composition of the standard medium for determining the total bacterial count.</i></caption>
 
 |Quantity   |Ingredient   |
 |---|---|
@@ -376,9 +386,9 @@ The number of CFUs should be shown graphically for both measurement days and com
 
 In general, specific DNA fragments are amplified in large numbers in the polymerase chain reaction (PCR), enabling even the smallest amounts of DNA to be analyzed. In contrast to conventional PCR, colony PCR does not use pure DNA as starting material. Instead, cell material (e.g. from a bacterial colony) is directly inoculated and the DNA it contains is then amplified. In this way, the time-consuming and relatively expensive step of DNA extraction can be avoided.
 
-**Execution**: Each group examines five morphologically interesting colonies from the master plates (3.5) of the first week. First, a master mix is prepared in sufficient quantity (number of samples examined + 1). This is done in sterile 0.5 mL Eppendorf tubes (do not forget to label!) according to the protocol in Table 4. After preparation, the tube must be tightly closed and vortexed for 5 s. 
+**Execution**: Each group examines five morphologically interesting colonies from the master plates (3.5) of the first week. First, a master mix is prepared in sufficient quantity (number of samples examined + 1). This is done in sterile 0.5 mL Eppendorf tubes (do not forget to label!) according to the protocol in <b>Tab. 4</b>. After preparation, the tube must be tightly closed and vortexed for 5 s. 
 
-<caption>Table 4: Master mix for colony PCR analysis of selected pure cultures. Quantities for one sample.</caption>
+<caption><b>Tab. 4:</b> <i>Master mix for colony PCR analysis of selected pure cultures. Quantities for one sample.</i></caption>
 
 |Volume \[µL\]  |Reagent    |
 |-|---|
@@ -389,11 +399,11 @@ In general, specific DNA fragments are amplified in large numbers in the polymer
 |11.0   |PCR H<sub>2</sub>O   |
 |25.0   |TOTAL VOLUME   |
 
-Subsequently, 25 µL of master mix is pipetted into sterile PCR tubes and inoculated with cell material. For this purpose, suitable colonies are selected on the selective agar plates and small amounts are transferred to the tubes using sterile pipette tips. The finished tubes are vortexed for 5 s, briefly centrifuged with a tabletop centrifuge and placed in the thermal cycler (BioRad T100; Fig. 9). The program is started according to the instructions in Table 5. After completion, the tubes are stored at -20 °C until further use.
+Subsequently, 25 µL of master mix is pipetted into sterile PCR tubes and inoculated with cell material. For this purpose, suitable colonies are selected on the selective agar plates and small amounts are transferred to the tubes using sterile pipette tips. The finished tubes are vortexed for 5 s, briefly centrifuged with a tabletop centrifuge and placed in the thermal cycler (BioRad T100; <b>Fig. 9</b>). The program is started according to the instructions in <b>Tab. 5</b>. After completion, the tubes are stored at -20 °C until further use.
 
 **ATTENTION**: To over-inoculate the cell material, the agar plates with highly enriched bacteria must be opened. This may only be done under the laminar flow! The plates are only opened until enough cell material has been removed and are then closed again immediately. The pipette tip used and the laboratory gloves are disposed of in a specially labeled waste container. Hands must be disinfected after this step! 
 
-<caption>Table 5: Program for colony PCR testing of selected pathogens.</caption>
+<caption><b>Tab. 5:</b> <i>Program for colony PCR testing of selected pathogens.</i></caption>
 
 |Phase    |Temperature \[°C\] |Duration \[s\] |Cycles   |
 |---|---|---|---|
@@ -418,7 +428,7 @@ Gel electrophoresis is a common method for testing PCR samples. In the practical
 To prepare the gel (one gel per group), 150 mg agarose and 15 mL 0.5x TAE buffer are filled into a 100 mL Erlenmeyer flask. The mixture is boiled in the microwave until the agarose has completely dissolved. Then add 1 µL DNA dye (SYBR Safe DNA gel stain), shake thoroughly and pour the liquid into a small gel chamber. Combs (optionally one or two) with a sufficient number of teeth are inserted into the still liquid gel. If necessary, air bubbles are removed with a sterile pipette tip. The gel takes about 15 minutes to harden completely and can be loaded.
 
 **Execution**:\
-After removing the combs, the hardened gel including the holder is removed from the gel chamber and carefully placed in the electrophoresis chamber. The liquid in the chamber must completely cover the gel, otherwise new 0.5x TAE buffer must be added. To load the gel, pipette 1.5 µL of sample into the pockets. The sequence must be noted! Pipette 1.5 µL DNA Ladder (GeneRuler Express) into a pocket (usually the first or last). Once all samples and the ladder have been loaded, the lid of the electrophoresis chamber is closed and the program is started at 100 V for 15 min. At the end of the running time, the gel is removed, carefully pushed onto the UV table and examined with the lid closed. The result can be photographed.
+After removing the combs, the hardened gel including the holder is removed from the gel chamber and carefully placed in the electrophoresis chamber (<b>Fig. 10</b>). The liquid in the chamber must completely cover the gel, otherwise new 0.5x TAE buffer must be added. To load the gel, pipette 1.5 µL of sample into the pockets. The sequence must be noted! Pipette 1.5 µL DNA Ladder (GeneRuler Express) into a pocket (usually the first or last). Once all samples and the ladder have been loaded, the lid of the electrophoresis chamber is closed and the program is started at 100 V for 15 min. At the end of the running time, the gel is removed, carefully pushed onto the UV table and examined with the lid closed. The result can be photographed.
 
 **ATTENTION**: The marked safety zone must be observed! Objects standing there must not leave the area and separate gloves must be used (and then disposed of in the hazardous waste garbage can). The electrophoresis chamber must be unplugged when handling, otherwise there is a risk of electric shock. The device may only be plugged in and started when the lid is closed. The gel may only be examined on the UV table when the lid is closed. Direct UV light can otherwise cause damage, especially to the eyes!
 
@@ -427,7 +437,7 @@ After removing the combs, the hardened gel including the holder is removed from 
 There are a number of different methods for determining the DNA content in a sample. In the practical course, quantification is carried out using a fluorometer (Promega Quantus). Alternatives would be the Nanodrop system or a photometric measurement with PicoGreen DNA dye.
 
 **Execution**:\
-Each group prepares a stock solution for all their samples (+ 1). For each sample, 197.5 µL 1x TE buffer and 0.5 µL dye must be calculated. Then pipette 198 µL of the stock solution and 2 µL of sample into analysis tubes, vortex and measure in the Quantus Fluorometer (Fig. 11) after an incubation time of 2 min. The dye or all solutions containing the dye must be protected from light as much as possible (use aluminum foil!), as the substance is light-sensitive and can be destroyed quickly! If the measured values are above the measuring range, the affected samples must be diluted 1:10 with 1x TE buffer and measured again (the entire procedure must be repeated!).
+Each group prepares a stock solution for all their samples (+ 1). For each sample, 197.5 µL 1x TE buffer and 0.5 µL dye must be calculated. Then pipette 198 µL of the stock solution and 2 µL of sample into analysis tubes, vortex and measure in the Quantus Fluorometer (<b>Fig. 11</b>) after an incubation time of 2 min. The dye or all solutions containing the dye must be protected from light as much as possible (use aluminum foil!), as the substance is light-sensitive and can be destroyed quickly! If the measured values are above the measuring range, the affected samples must be diluted 1:10 with 1x TE buffer and measured again (the entire procedure must be repeated!).
 
 ### 3.6.5. DNA sequencing and BLASTing
 
@@ -466,7 +476,7 @@ Pipette 15 µL of the purified DNA extract from each sample into sterile 1.5 mL 
 
 # Appendix
 
-Tab 6: Ampelsystem der BOKU Wien zur Einschätzung der gemessenen Parameter bezüglich der Arbeitsweise des Biogas-Reaktors (Laaber, 2012).
+<caption><b>Tab. 6:</b> <i>Ampelsystem der BOKU Wien zur Einschätzung der gemessenen Parameter bezüglich der Arbeitsweise des Biogas-Reaktors (Laaber, 2012).</i></caption>
 
 | Parameter    | Einheit   | Grün      | Gelb                 | Rot            |
 |--------------|-----------|-----------|----------------------|----------------|
