@@ -33,7 +33,7 @@ editor: visual
 
 <br>
 
-<img src="https://tklammsteiner.github.io/waste-management-course/assets/img/titelbild.png" alt="Title image" width=50%/>
+<img src="https://tklammsteiner.github.io/waste-management-course/assets/img/titelbild.png" alt="Title image" width=100%/>
 
 <br>
 
