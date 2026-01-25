@@ -1,7 +1,7 @@
 ---
 title: "Waste Management Lab Course (**718837 UE Biogas**)"
 subtitle: "Universität Innsbruck | Department of Microbiology"
-author: "Thomas Klammsteiner, Sebastian Hupfauf"
+author: "Thomas Klammsteiner, PhD & Sebastian Hupfauf, PhD"
 output: html_document
 ---
 
@@ -18,14 +18,6 @@ Find the current course details (dates and deadlines) at [uibk.ac.at](https://lf
 -   [**German**](https://tklammsteiner.github.io/waste-management-course/docs/protokoll_deutsch/protokoll_deutsch.html) version\
 -   [**English**](https://tklammsteiner.github.io/waste-management-course/docs/protocol_english/protocol_english.html) version
 
-
-## Slides
-
--   Day 1 - [Introduction](https://tklammsteiner.github.io/waste-management-course/docs/day_1/biogas_ue_day_1.html)
--   Day 4 - [Pathogen test & isolation](https://tklammsteiner.github.io/waste-management-course/docs/day_1/biogas_ue_day_4.html)
--   Day 6 - [Colony PCR](https://tklammsteiner.github.io/waste-management-course/docs/day_1/biogas_ue_day_6.html)
--   Day 8 - [Biomolecular characterization 1](https://tklammsteiner.github.io/waste-management-course/docs/day_1/biogas_ue_day_8.html)
--   Day 10 - [Biomolecular characterization 2](https://tklammsteiner.github.io/waste-management-course/docs/day_1/biogas_ue_day_10.html)
 
 <br>
 
@@ -92,31 +84,31 @@ Tips and design help:
 
 ***
 
-# Retrospect
+# Throwback
 
 ### Course info from previous years:
 - Winter term 2023/2024 [[Link]](https://lfuonline.uibk.ac.at/public/lfuonline_lv.details?sem_id_in=23W&lvnr_id_in=718837&sprache_in=en) | [[OLAT Link]](https://lms.uibk.ac.at/url/RepositoryEntry/5478907904)
-  - Student asssitant: Sophia Strobl
+  - Student assistant: Sophia Strobl
   - Number of students: 14  
   
 - Winter term 2022/2023 [[Link]](https://lfuonline.uibk.ac.at/public/lfuonline_lv.details?sem_id_in=22W&lvnr_id_in=718837&sprache_in=en) | [[OLAT Link]](https://lms.uibk.ac.at/url/RepositoryEntry/5350293593)
-  - Student asssitant: Maria Payr
+  - Student assistant: Maria Payr
   - Number of students: 15
 
 - Winter term 2021/2022 [[Link]](https://lfuonline.uibk.ac.at/public/lfuonline_lv.details?sem_id_in=21W&lvnr_id_in=718837&sprache_in=en) | [[OLAT Link]](https://lms.uibk.ac.at/url/RepositoryEntry/5125996704)
-  - Student asssitant: Katharina Nussbaumer
+  - Student assistant: Katharina Nussbaumer
   - Number of students: 12
 
 - Winter term 2020/2021 [[Link]](https://lfuonline.uibk.ac.at/public/lfuonline_lv.details?sem_id_in=20W&lvnr_id_in=718837&sprache_in=en) | [[OLAT Link]](https://lms.uibk.ac.at/url/RepositoryEntry/4877517195)
-  - Student asssitant: Sophia Strobl
+  - Student assistant: Sophia Strobl
   - Number of students: 11
 
 - Winter term 2019/2020 [[Link]](https://lfuonline.uibk.ac.at/public/lfuonline_lv.details?sem_id_in=19W&lvnr_id_in=718837&sprache_in=en) | [[OLAT Link]](https://lms.uibk.ac.at/url/RepositoryEntry/4563534076)
-  - Student asssitant: Julia Zöhrer
+  - Student assistant: Julia Zöhrer
   - Number of students: 13
 
 - Winter term 2018/2019 [[Link]](https://lfuonline.uibk.ac.at/public/lfuonline_lv.details?sem_id_in=18W&lvnr_id_in=718837&sprache_in=en) | [[OLAT Link]](https://lms.uibk.ac.at/url/RepositoryEntry/4390126846)
-  - Student asssitant: Anna Winkler
+  - Student assistant: Anna Winkler
   - Number of students: 13
 
 
