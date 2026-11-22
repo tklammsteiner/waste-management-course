@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs        # GitHub Pages serves from docs/
+  resources:
+    - assets/abstract_lastname.docx
+
+website:
+  title: "Waste Management Lab Course"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "Slides"
+        menu:
+          - text: "Day 1"
+            href: assets/slides/day1/day1_introduction.qmd
+          - text: "Day 4"
+            href: assets/slides/day4/day4_pathogens_isolation.qmd
+          - text: "Day 5"
+            href: assets/slides/day5/day5_colony_pcr.qmd
+          - text: "Day 7"
+            href: assets/slides/day7/day7_biomolecular_characterisation.qmd
+          - text: "Day 8"
+            href: assets/slides/day8/day8_wrap_up.qmd
+      - text: "Protocol"
+        menu:
+          - text: "Deutsch"
+            href: assets/protokoll_deutsch/protokoll_deutsch.html
+          - text: "English"
+            href: assets/protocol_english/protocol_english.html
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-float: true

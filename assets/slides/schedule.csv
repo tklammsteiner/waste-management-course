@@ -1,0 +1,12 @@
+﻿08.11;09.11;10.11;11.11;12.11;13.11;14.11;15.11
+Exam;Gas quantity;Gas quantity;Gas quantity;Gas quantity;Gas quantity;Gas quantity;Gas quantity
+Gas quantity;Gas quality;Gas quality;Gas quality;Gas quality;Gas quality;Gas quality;Gas quality
+Gas quality;Plates @4 °C;Plates @4 °C;Sampling;Colony PCR;Sampling;DM weighing;Sampling
+Sampling;;;Feeding;Gel electrophoresis;Feeding;DM for C:N;pH/EC
+Feeding;;;pH/EC;NanoDrop/Quantus;pH/EC;oDM incubation;FOS/TAC
+pH/EC;;;FOS/TAC;PCR clean-up;FOS/TAC;BLAST;NH4/VFA
+FOS/TAC;;;DM weighing;Sanger Sequencing;COD;Microscopy;COD
+DM incubation;;;DM for C:N;oDM weighing;oDM weighing;Anaerobic fungi;oDM weighing
+Plating;;;oDM incubation;DM weighing;DM incubation;;DM incubation
+;;;DM incubation;DM for C:N;;;Plating
+;;;Master plate;oDM incubation;;;Cleaning

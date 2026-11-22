@@ -1,0 +1,112 @@
+---
+title: Wrap-up
+subtitle: Biogas lab course 2024
+author: 
+    - name: Thomas Klammsteiner, PhD
+      email: thomas.klammsteiner@uibk.ac.at
+      affiliation: 
+        - name: Department of Microbiology, University of Innsbruck
+          city: Innsbruck
+          url: https://tklammsteiner.github.io
+    - name: Sebastian Hupfauf, PhD
+      email: sebastian.hupfauf@uibk.ac.at
+      affiliation: 
+        - name: Department of Microbiology, University of Innsbruck
+          city: Innsbruck
+          url: https://uibk.ac.at/microbiology
+abstract: This lesson will focus on pathogen tests and isolation of microbes using nutrient media.
+keywords: microbiology, circular economy, waste management, biogas
+license: "CC BY"
+format: 
+  revealjs:
+    theme: [default, "../theme.scss"]
+    footer: "Biogas lab 2024 | [**[← Course home]**](../../../index.html)"
+    slide-number: true
+    embed-resources: true
+---
+
+## Schedule
+
+```{r}
+library(reactable)
+
+schedule <- read.csv(
+  "../schedule.csv",
+  sep = ";",
+  check.names = FALSE,   # keep "08.11" as column name
+  na.strings = "",       # empty cells become NA
+  fileEncoding = "UTF-8" # keeps the "°C" intact
+)
+
+reactable(
+  schedule,
+  pagination = FALSE,
+  sortable = FALSE,
+  compact = TRUE,
+  bordered = TRUE, 
+  highlight = TRUE,
+  defaultColDef = colDef(
+    align = "center",
+    na = "",             # show empty cells as blank instead of "–"
+    headerStyle = list(
+      background = "#ff9e53",
+      color = "white",
+      fontWeight = "bold"
+    )
+  ),
+  columns = list(
+    `15.11` = colDef(
+    style = list(background = "#fff3cd", fontWeight = "bold"),
+    headerStyle = list(background = "#e07a1f", color = "white")
+    )),
+  theme = reactableTheme(
+    style = list(fontSize = "0.40em"),
+    cellPadding = "2px 4px"
+  )
+)
+```
+
+## Cleaning
+
+:::: {.columns}
+
+::: {.column width=35%}
+![](figs/cleaning.png)
+:::
+
+::: {.column width=65%}
+<br>
+<br>
+
+::: {.small-list-condensed}
+- Unscrew the ball valve and lid  
+- Dispose of slurry in the drain basin (**flush!**)  
+- Clean the reactors with brushes or pipe cleaners  
+:::
+:::
+
+::::
+
+::: {.credit}
+Image: Thomas Klammsteiner
+:::
+
+
+
+## Ammonium (NH4+) and VFAs
+
+### How to prepare for analysis
+
+![](figs/ammonium_vfas.png)
+
+::: {.credit}
+Image: Thomas Klammsteiner
+:::
+
+
+
+## Your analyses
+
+- NH~4~^+^ and VFA's will be measured by A.O.W.
+- We will transfer your agar plates to 4 °C on Saturday and Sunday and upload the photos of bacterial growth to OLAT
+- DM and oDM values will be added to the tables on OLAT

@@ -1,0 +1,96 @@
+---
+title: Biomolecular characterisation
+subtitle: Biogas lab course 2024
+author: 
+    - name: Thomas Klammsteiner, PhD
+      email: thomas.klammsteiner@uibk.ac.at
+      affiliation: 
+        - name: Department of Microbiology, University of Innsbruck
+          city: Innsbruck
+          url: https://tklammsteiner.github.io
+    - name: Sebastian Hupfauf, PhD
+      email: sebastian.hupfauf@uibk.ac.at
+      affiliation: 
+        - name: Department of Microbiology, University of Innsbruck
+          city: Innsbruck
+          url: https://uibk.ac.at/microbiology
+abstract: This lesson will focus on pathogen tests and isolation of microbes using nutrient media.
+keywords: microbiology, circular economy, waste management, biogas
+license: "CC BY"
+format: 
+  revealjs:
+    theme: [default, "../theme.scss"]
+    footer: "Biogas lab 2024 | [**[← Course home]**](../../../index.html)"
+    slide-number: true
+    embed-resources: true
+---
+
+## Schedule
+
+```{r}
+library(reactable)
+
+schedule <- read.csv(
+  "../schedule.csv",
+  sep = ";",
+  check.names = FALSE,   # keep "08.11" as column name
+  na.strings = "",       # empty cells become NA
+  fileEncoding = "UTF-8" # keeps the "°C" intact
+)
+
+reactable(
+  schedule,
+  pagination = FALSE,
+  sortable = FALSE,
+  compact = TRUE,
+  bordered = TRUE, 
+  highlight = TRUE,
+  defaultColDef = colDef(
+    align = "center",
+    na = "",             # show empty cells as blank instead of "–"
+    headerStyle = list(
+      background = "#ff9e53",
+      color = "white",
+      fontWeight = "bold"
+    )
+  ),
+  columns = list(
+    `14.11` = colDef(
+    style = list(background = "#fff3cd", fontWeight = "bold"),
+    headerStyle = list(background = "#e07a1f", color = "white")
+    )),
+  theme = reactableTheme(
+    style = list(fontSize = "0.40em"),
+    cellPadding = "2px 4px"
+  )
+)
+```
+
+## Colony PCR (recap)
+
+![](figs/colony_pcr.png)
+
+::: {.credit}
+Photo: www.edvotek.com, www.socmucimm.org
+:::
+
+## Sanger sequencing preparation
+
+![](figs/sanger_seq_prep.png)
+
+::: {.credit}
+Image: Thomas Klammsteiner
+:::
+
+
+
+## Sanger sequencing results
+
+![](figs/sanger_results.png)
+
+
+
+## NCBI BLAST
+
+![](figs/blast.png)
+
