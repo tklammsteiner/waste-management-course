@@ -9,6 +9,12 @@ Course website for the lab course **718837 UE Biogas** at the Department of Micr
 ## What's on the site
 
 - **Slides**: Slide decks for specific course days
+    - Day 1: [Introduction](docs/assets/slides/day1/day1_introduction.html)
+    - Day 4: [Pathogens & isolation](docs/assets/slides/day4/day4_pathogens_isolation.html)
+    - Day 5: [Colony PCR](docs/assets/slides/day5/day5_colony_pcr.html)
+    - Day 7: [Biomolecular characterisation](docs/assets/slides/day7/day7_biomolecular_characterisation.html)
+    - Day 8: [Wrap-up](docs/assets/slides/day8/day8_wrap_up.html)
+
 - **Protocol**: Lab protocol documents both in German and English
 - **Downloads**: Course material such as the abstract template (`.docx`)
 
