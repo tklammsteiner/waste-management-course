@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs        # GitHub Pages serves from docs/
   resources:
-    - assets/abstract_lastname.docx
+    - assets/*
 
 website:
   title: "Waste Management Lab Course"
@@ -14,14 +14,19 @@ website:
         menu:
           - text: "Day 1"
             href: assets/slides/day1/day1_introduction.qmd
+            target: _blank
           - text: "Day 4"
             href: assets/slides/day4/day4_pathogens_isolation.qmd
+            target: _blank
           - text: "Day 5"
             href: assets/slides/day5/day5_colony_pcr.qmd
+            target: _blank
           - text: "Day 7"
             href: assets/slides/day7/day7_biomolecular_characterisation.qmd
+            target: _blank
           - text: "Day 8"
             href: assets/slides/day8/day8_wrap_up.qmd
+            target: _blank
       - text: "Protocol"
         menu:
           - text: "Deutsch"

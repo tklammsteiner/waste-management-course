@@ -6,7 +6,7 @@ author: "Thomas Klammsteiner, PhD & Sebastian Hupfauf, PhD"
 
 <br>
 
-<img src="https://tklammsteiner.github.io/waste-management-course/assets/img/titelbild.png" alt="Title image" width=100%/>
+<img src="assets/img/titelbild.png" alt="Title image" width=100%/>
 
 # About
 
